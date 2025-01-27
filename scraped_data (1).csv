@@ -1,0 +1,1532 @@
+Entity Type,USDOT Number,USDOT Status,MCS-150 Mileage Year,MCS-150 Form Date,Legal Name,DBA Name,Physical Address,Phone,Mailing Address,URL,Error
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Error scraping link number 1: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""N/A"", waiting until ""load""
+"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Error scraping link number 2: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""N/A"", waiting until ""load""
+"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Error scraping link number 3: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""N/A"", waiting until ""load""
+"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Error scraping link number 4: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""N/A"", waiting until ""load""
+"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Error scraping link number 5: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""N/A"", waiting until ""load""
+"
+CARRIER  ,4114413 ,ACTIVE  , ,10/01/2023 ,GRISEIDA MABEL BENAVIDES ,1998 TRANSPORT ,"4334 HWY 90 A
+ALTAIR, TX   77412  ",(832) 724-6338  ,"5527 SWEETBRIAR ST
+HOUSTON, TX   77017-6423  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4114413&original_query_string=1998 TRANSPORT,N/A
+CARRIER  ,977543 ,ACTIVE  , ,09/12/2001 ,3 M TRANSPORT , ,"3318 KY ROUTE 3379
+GRETHEL, KY   41631  ",(606) 587-2886  ,"PO BOX 62
+HAROLD, KY   41631  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=977543&original_query_string=3 M TRANSPORT,N/A
+CARRIER  ,929672 ,ACTIVE  ,"60,000 (2000) ", ,RONALD GRAHAM ,3-G TRANSPORT ,"568 E MCIVER RD
+FLORENCE, SC   29506-6925  ",(843) 678-4474  ,"568 E MCIVER RD
+FLORENCE, SC   29506-6925  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=929672&original_query_string=3-G TRANSPORT,N/A
+CARRIER  ,2936853 ,ACTIVE  ,1 (2020) ,01/13/2023 ,A & I TRANSPORT CORP , ,"9890 NW 80TH PL
+HIALEAH, FL   33016  ",(786) 556-1478  ,"5355 W 8TH AVE
+HIALEAH, FL   33012  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2936853&original_query_string=A & I TRANSPORT CORP,N/A
+CARRIER  ,1045774 ,ACTIVE  , ,08/01/2002 ,A A EAGLE PUMPING & DRAIN CLEANING INC , ,"13121 ELEFF LANE
+HUDSON, FL   34669  ",(727) 869-8732  ,"POST OFFICE BOX 5486
+HUDSON, FL   34674  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1045774&original_query_string=A A EAGLE PUMPING & DRAIN CLEANING INC,N/A
+CARRIER  ,942697 ,ACTIVE  ,"54,000 () ",03/20/2001 ,A TRANSPORT , ,"408 PINE GROVE STREET
+DELAND, FL   32720-2625  ",(904) 738-1552  ,"408 PINE GROVE STREET
+DELAND, FL   32720-2625  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=942697&original_query_string=A TRANSPORT,N/A
+CARRIER  ,1366222 ,ACTIVE  ,"10,000 (2005) ",04/28/2005 ,A&T PLUMBING AND HEATING , ,"65 JOE NESTER
+EDGEWOOD, NM   87015  ",(505) 281-1700  ,"PO BOX 1780
+EDGEWOOD, NM   87015  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1366222&original_query_string=A&T PLUMBING AND HEATING,N/A
+CARRIER  ,1755767 ,ACTIVE  , ,07/23/2008 ,ABB LLC ,ABB TRUCKING COMPANY ,"3285 DENTON STREET
+TUSCUMBIA, AL   35611  ",(256) 457-6321  ,"PO BOX 2084
+MUSCLE SHOALS, AL   35611  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1755767&original_query_string=ABB TRUCKING COMPANY,N/A
+CARRIER  ,2905756 ,OUT-OF-SERVICE  ,"50,000 (2021) ",07/23/2024 ,ACTION EMERGENCY MANAGEMENT SERVICES INC , ,"1087 BROADWAY
+REVERE, MA   02151  ",(781) 286-3900  ,"1087 BROADWAY
+REVERE, MA   02151  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2905756&original_query_string=ACTION EMERGENCY MANAGEMENT SERVICES INC,N/A
+CARRIER  ,2069013 ,ACTIVE  , ,08/24/2010 ,ADVANCED WINDOW AND DOOR SYSTEMS INC , ,"11 CHAPEL WOODS CT
+WILLIAMSVILLE, NY   14221  ",(716) 688-4228  ,"11 CHAPEL WOODS CT
+WILLIAMSVILLE, NY   14221  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2069013&original_query_string=ADVANCED WINDOW AND DOOR SYSTEMS INC,N/A
+CARRIER  ,1283764 ,ACTIVE  , ,08/24/2004 ,ADVANTAGE TRUCK & TRAILER REPAIR INC , ,"1111 W 48TH STREET
+CHICAGO, IL   60609  ",(773) 247-2222  ,"1111 W 48TH STREET
+CHICAGO, IL   60609  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1283764&original_query_string=ADVANTAGE TRUCK & TRAILER REPAIR INC,N/A
+CARRIER  ,1116367 ,ACTIVE  , ,04/08/2003 ,BRIAN LEE STEPKA ,ADVANTAGE TRUCKING ,"278 MAE ROSE AVE
+HOLLAND, MI   49424  ",(616) 218-8544  ,"278 MAE ROSE AVE
+HOLLAND, MI   49424  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1116367&original_query_string=ADVANTAGE TRUCKING,N/A
+SHIPPER  ,554320 ,ACTIVE  , , ,AIKEN CHEMICAL COMPANY INC , ,"3998 PELHAM COURT
+GREER, SC   29651  ",(803) 234-7890  ,"PO BOX 1904
+GREENVILLE, SC   29602  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=554320&original_query_string=AIKEN CHEMICAL COMPANY INC,N/A
+CARRIER  ,1345693 ,ACTIVE  ,"15,000 (2021) ",01/19/2023 ,SHEAHAN INC ,AL'S EXCAVATING AND SHEAHAN FARMS ,"W1372 SHEAHAN RD
+NELSON, WI   54756  ",(715) 946-3327  ,"S890 ARNOLDS DR
+NELSON, WI   54756  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1345693&original_query_string=AL'S EXCAVATING AND SHEAHAN FARMS,N/A
+CARRIER  ,1435593 ,ACTIVE  ,"200,000 (2024) ",03/12/2024 ,FAWAZ ISMAIL ,ALAMO FLAG COMPANY ,"100 WEST JEFFERSON ST #101
+FALLS CHURCH, VA   22046  ",(703) 534-8158  ,"100 WEST JEFFERSON ST #101
+FALLS CHURCH, VA   22046  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1435593&original_query_string=ALAMO FLAG COMPANY,N/A
+CARRIER  ,920372 ,ACTIVE  , ,01/27/2001 ,ALAN RAY TRUCKING , ,"2781 RHAPSODY STREET NE
+PALM BAY, FL   32905  ",(321) 725-9968  ,"2781 RHAPSODY STREET NE
+PALM BAY, FL   32905  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=920372&original_query_string=ALAN RAY TRUCKING,N/A
+CARRIER  ,3308928 ,ACTIVE  ,"12,568 (2022) ",05/15/2024 ,ALCANTAR TRUCKLINE CORP , ,"3772 1/2 BOSTON AVE
+SAN DIEGO, CA   92113  ",(619) 395-2987  ,"2498 ROLL DR 1319
+SAN DIEGO, CA   92154  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3308928&original_query_string=ALCANTAR TRUCKLINE CORP,N/A
+CARRIER  ,3080764 ,ACTIVE  ,"80,000 (2023) ",08/26/2024 ,ALCIDES GRANADOS , ,"17575 OWEN ST
+FONTANAN, CA   92335  ",(323) 715-5902  ,"17575 OWEN ST
+FONTANAN, CA   92335  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3080764&original_query_string=ALCIDES GRANADOS,N/A
+CARRIER  ,2071505 ,ACTIVE  ,"65,000 (2010) ",08/31/2010 ,ALEJANDRO BURCIAGA , ,"535 SOUTH SCOTT ST
+ADRIAN, MI   49221  ",(517) 265-3276  ,"535 SOUTH SCOTT ST
+ADRIAN, MI   49221  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2071505&original_query_string=ALEJANDRO BURCIAGA,N/A
+CARRIER  ,2749001 ,ACTIVE  , , ,ALEXANDER GOLDENBERG , ,"4478 W PICO BLVD
+LOS ANGELES, CA   90019  ",(323) 937-1743  ,"4478 W PICO BLVD
+LOS ANGELES, CA   90019  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2749001&original_query_string=ALEXANDER GOLDENBERG,N/A
+CARRIER  ,867708 ,ACTIVE  ,"40,000 (1999) ", ,ALL WORLD FARMS INC ,ALL AMERIWORLD TRANSFER ,"1180 S POWERLINE RD STE # 208
+POMPANO BEACH, FL   33063  ",(954) 788-0300  ,"1180 S POWERLINE RD STE # 208
+POMPANO BEACH, FL   33063  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=867708&original_query_string=ALL AMERIWORLD TRANSFER,N/A
+CARRIER  ,793619 ,ACTIVE  , , ,ALLAN ROEHRS , ,"104 RD 16
+BRADSHAW, NE   68319  ",(402) 725-3212  ,"104 RD 16
+BRADSHAW, NE   68319  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=793619&original_query_string=ALLAN ROEHRS,N/A
+CARRIER  ,3086584 ,ACTIVE  ,1 (2023) ,08/30/2024 ,ALPHA EXPRESS NEW ENGLAND INC , ,"100 TOWER ST APT 308
+HUDSON, MA   01749  ",(508) 326-1762  ,"100 TOWER ST APT 308
+HUDSON, MA   01749  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3086584&original_query_string=ALPHA EXPRESS NEW ENGLAND INC,N/A
+CARRIER  ,2774644 ,ACTIVE  , , ,RICHARD R ROSALES ,AMBASSADOR TRANSPORT ,"4735 E WELDON AVE
+FRESNO, CA   93703  ",(559) 455-3386  ,"4735 E WELDON AVE
+FRESNO, CA   93703  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2774644&original_query_string=AMBASSADOR TRANSPORT,N/A
+SHIPPER  ,414847 ,ACTIVE  , , ,AMERICAN CYLINDER INC , ,"190 PENROD CT
+GLEN BURNIE, MD   21061-2838  ", ,"190 PENROD CT
+GLEN BURNIE, MD   21061-2838  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=414847&original_query_string=AMERICAN CYLINDER INC,N/A
+CARRIER  ,1014530 ,ACTIVE  , ,03/20/2002 ,AMERICAN EARTH MOVERS LLC , ,"3 COMMERCE BLVD
+PALM COAST, FL   32164  ",(386) 447-2995  ,"3 COMMERCE BLVD
+PALM COAST, FL   32164  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1014530&original_query_string=AMERICAN EARTH MOVERS LLC,N/A
+CARRIER  ,776444 ,ACTIVE  , , ,AMERICAN EXCAVATING , ,"8909 W 300 N
+SHIRLEY, IN   47384  ",(765) 779-4453  ,"8909 W 300 N
+SHIRLEY, IN   47384  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=776444&original_query_string=AMERICAN EXCAVATING,N/A
+CARGO TANK  ,2787297 ,ACTIVE  , ,08/03/2015 ,KEITH ATWOOD ,AMERICAN FLEET DIAGNOSTICS ,"3808 LONGLEAF LANE
+FORT WORTH, TX   76137  ",(682) 559-8543  ,"4360 WESTERN CENTER BLVD #228
+FORT WORTH, TX   76137  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2787297&original_query_string=AMERICAN FLEET DIAGNOSTICS,N/A
+SHIPPER  ,1126725 ,ACTIVE  , ,05/07/2003 ,AMERICAN HOTEL REGISTER COMPANY , ,"11754 CABARNET DRIVE
+FONTANA, CA   92337  ", ,"11754 CABARNET DRIVE
+FONTANA, CA   92337  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1126725&original_query_string=AMERICAN HOTEL REGISTER COMPANY,N/A
+SHIPPER  ,431048 ,ACTIVE  , , ,AMERICAN LITHO , ,"4155 DANVERS CT SE
+GRAND RAPIDS, MI   49512-4041  ",(616) 957-2650  ,"4155 DANVERS CT SE
+GRAND RAPIDS, MI   49512-4041  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=431048&original_query_string=AMERICAN LITHO,N/A
+CARRIER  ,3219664 ,ACTIVE  , ,12/10/2018 ,AMERICAN MADE MOVING COMPANY , ,"1100 S LOOP 336 W APT 3221
+CONROE, TX   77304-3335  ",(832) 548-4950  ,"PO BOX 1784
+CONROE, TX   77305-1784  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3219664&original_query_string=AMERICAN MADE MOVING COMPANY,N/A
+CARRIER  ,803354 ,ACTIVE  , , ,AMERICAN MAPS IMPORT EXPORT INC , ,"4757 CITRUS WAY
+COOPER CITY, FL   33330-8811  ",(954) 680-2513  ,"4757 CITRUS WAY
+COOPER CITY, FL   33330-8811  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=803354&original_query_string=AMERICAN MAPS IMPORT EXPORT INC,N/A
+CARRIER  ,1442287 ,ACTIVE  , ,12/12/2005 ,TIMOTHY MCLAUGHLIN ,AMERICAN MILLWORK INC ,"850D GRAND BLVD
+DEER PARK, NY   11729  ",(631) 243-3100  ,"850D GRAND BLVD
+DEER PARK, NY   11729  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1442287&original_query_string=AMERICAN MILLWORK INC,N/A
+CARRIER  ,742492 ,ACTIVE  , ,06/22/2010 ,JOSHUA E BUTTS ,AMERICAN TOWING & RECOVERY EXPERTS ,"40 EAST 300 SOUTH SP #35
+AMERICAN FORK, UT   84003  ",(801) 330-5950  ,"PO BOX 963
+OREM, UT   84057  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=742492&original_query_string=AMERICAN TOWING & RECOVERY EXPERTS,N/A
+CARRIER  ,810007 ,ACTIVE  ,"10,000 (1998) ", ,AMERICAN UNDERGROUND UTILITIES INC , ,"225 SOUTH AIRPORT ROAD
+NAPLES, FL   34104  ",(094) 164-3192  ,"225 SOUTH AIRPORT ROAD
+NAPLES, FL   34104  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=810007&original_query_string=AMERICAN UNDERGROUND UTILITIES INC,N/A
+CARRIER  ,2047427 ,ACTIVE  , ,06/20/2010 ,AMERICAN WIDGET COMPANY ,AWC ,"122 S RIPLEY ST
+ALPENA, MI   49707  ",(989) 916-5980  ,"122 S RIPLEY ST
+ALPENA, MI   49707  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2047427&original_query_string=AMERICAN WIDGET COMPANY,N/A
+CARRIER  ,2066330 ,ACTIVE  ,"439,245 (2023) ",09/04/2024 ,AMRIT TRANS CARRIER INC , ,"3713 MOUNT CELESTE CT
+BAKERSFIELD, CA   93313  ",(732) 763-8442  ,"3713 MOUNT CELESTE CT
+BAKERSFIELD, CA   93313  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2066330&original_query_string=AMRIT TRANS CARRIER INC,N/A
+CARRIER  ,754210 ,ACTIVE  ,"18,000 (1997) ", ,ANDERSON INTERIOR SYSTEMS INC , ,"10430 E 900 N
+LAFAYETTE, IN   47905  ",(765) 564-4241  ,"10430 E 900 N
+LAFAYETTE, IN   47905  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=754210&original_query_string=ANDERSON INTERIOR SYSTEMS INC,N/A
+CARRIER  ,1545473 ,ACTIVE  ,"161,912 (2006) ",08/22/2006 ,SUNSET BAY RATTAN INC ,ANDREA BASKETS ,"1401 LAKELAND AVE
+BOHEMIA, NY   11716  ",(631) 231-4888  ,"1401 LAKELAND AVE
+BOHEMIA, NY   11716  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1545473&original_query_string=ANDREA BASKETS,N/A
+CARRIER  ,880794 ,ACTIVE  ,"10,000 (1999) ", ,ANDREINA T DELGADO ,R & A TRUCKING ,"2517 STRATFORD UPON AVON BLVD
+ORLANDO, FL   32837  ",(407) 852-3983  ,"2517 STRATFORD UPON AVON BLVD
+ORLANDO, FL   32837  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=880794&original_query_string=ANDREINA T DELGADO,N/A
+CARRIER  ,1522886 ,ACTIVE  , ,04/12/2006 ,ANDREW & DAWSON , ,"1709 FOREST AVE
+MONTGOMERY, AL   36106  ",(334) 269-1891  ,"1709 FOREST AVE
+MONTGOMERY, AL   36106  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1522886&original_query_string=ANDREW & DAWSON,N/A
+CARRIER  ,2606932 ,ACTIVE  , , ,ANDREW PAPANICOLAOU , ,"3130 PASEO MERCADO #101
+OXNARD, CA   93036  ",(805) 604-0909  ,"3130 PASEO MERCADO #101
+OXNARD, CA   93036  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2606932&original_query_string=ANDREW PAPANICOLAOU,N/A
+CARRIER  ,1646941 ,ACTIVE  , ,05/21/2007 ,ANDY LEITTEN ,TAGG CONSTRUCTION GROUP LLC ,"74 NORTH STREET
+LEROY, NY   14482  ",(585) 343-3640  ,"74 NORTH STREET
+LEROY, NY   14482  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1646941&original_query_string=ANDY LEITTEN,N/A
+CARRIER  ,3492842 ,ACTIVE  , ,09/23/2020 ,ANGELA CARTER ,PEACH STATE TRANSPATION ,"718 BEALE ST
+AMERICUS, GA   31709-3927  ",(229) 942-3884  ,"718 BEALE ST
+AMERICUS, GA   31709-3927  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3492842&original_query_string=ANGELA CARTER,N/A
+CARRIER  ,1319543 ,ACTIVE  , ,01/07/2005 ,ANGELICA SANDOVAL , ,"NALLS RD LOT 4
+CLEWSTON, FL   33440  ",(863) 599-9073  ,"NALLS RD LOT 4
+CLEWSTON, FL   33440  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1319543&original_query_string=ANGELICA SANDOVAL,N/A
+CARRIER  ,3142706 ,ACTIVE  ,"102,418 (2023) ",04/09/2024 ,ANOTHER LEVEL OF TRANSPORTATION SERVICES LLC , ,"1326 W HADLEY ST
+PHOENIX, AZ   85007  ",(602) 434-8457  ,"6635 W HAPPY VALLEY RD 104/172
+GLENDALE, AZ   85310  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3142706&original_query_string=ANOTHER LEVEL OF TRANSPORTATION SERVICES LLC,N/A
+CARRIER  ,1028439 ,ACTIVE  , ,05/01/2002 ,ANTHONY BROTHERS INC , ,"246 PINTO LANE
+ORMONO BEACH, FL   32174  ",(386) 671-0737  ,"246 PINTO LANE
+ORMONO BEACH, FL   32174  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1028439&original_query_string=ANTHONY BROTHERS INC,N/A
+CARRIER  ,2030266 ,ACTIVE  , ,05/05/2010 ,ASPRASCAPE INCORPORATED ,ANTHONY CAMBARERI ,"59 LAKESIDE DR
+KATONAH, NY   10536  ",(914) 232-8096  ,"59 LAKESIDE DR
+KATONAH, NY   10536  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2030266&original_query_string=ANTHONY CAMBARERI,N/A
+CARRIER  ,1501906 ,ACTIVE  , ,05/16/2006 ,ANTHONY R COLE ,ANTHONY COLE CONSTRUCTION ,"HC 71 BOX 65
+ASBURY, WV   24916  ",(304) 645-2055  ,"HC 71 BOX 65
+ASBURY, WV   24916  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1501906&original_query_string=ANTHONY COLE CONSTRUCTION,N/A
+CARRIER  ,2568149 ,ACTIVE  ,"130,000 (2015) ",09/04/2024 ,ANTHONY KIRCHHOFF ,KIRCHHOFF FARMS ,"1426 W 700 RD
+STUTTGART, KS   67661-9561  ",(785) 543-8582  ,"1426 W 700 RD
+STUTTGART, KS   67661-9561  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2568149&original_query_string=ANTHONY KIRCHHOFF,N/A
+CARRIER  ,1117369 ,ACTIVE  ,"4,000 (2002) ",04/10/2003 ,ANTHONY PEPPE ,A A PEPPE TIMBER PRODUCTS ,"5 SOUTH MAIN STREET
+MORAVIA, NY   13118  ",(315) 497-1760  ,"5 SOUTH MAIN STREET
+MORAVIA, NY   13118  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1117369&original_query_string=ANTHONY PEPPE,N/A
+CARRIER  ,1501906 ,ACTIVE  , ,05/16/2006 ,ANTHONY R COLE ,ANTHONY COLE CONSTRUCTION ,"HC 71 BOX 65
+ASBURY, WV   24916  ",(304) 645-2055  ,"HC 71 BOX 65
+ASBURY, WV   24916  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1501906&original_query_string=ANTHONY R COLE,N/A
+CARRIER  ,744407 ,ACTIVE  , , ,ANTHONY WELL DRILLING & PUMPS INC , ,"19156 S PEASE RD
+OREGON CITY, OR   97045  ",(503) 655-3140  ,"19156 S PEASE RD
+OREGON CITY, OR   97045  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=744407&original_query_string=ANTHONY WELL DRILLING & PUMPS INC,N/A
+CARRIER  ,814879 ,ACTIVE  ,"35,000 (1998) ", ,ANTIOCH FARM FEED & GRAIN CO ,UNITED STATES FEED & GRAIN CO ,"4401 NORHT COOPER ROAD
+PLANT CITY, FL   33565  ",(813) 986-1861  ,"4401 NORHT COOPER ROAD
+PLANT CITY, FL   33565  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=814879&original_query_string=ANTIOCH FARM FEED & GRAIN CO,N/A
+CARRIER  ,1901074 ,ACTIVE  ,"110,000 (2009) ",06/11/2009 ,ANTONINO LEGATO LANDSCAPING LLC , ,"2971 GOMER ST
+YORKTOWN HEIGHTS, NY   10598  ",(914) 245-6168  ,"2971 GOMER ST
+YORKTOWN HEIGHTS, NY   10598  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1901074&original_query_string=ANTONINO LEGATO LANDSCAPING LLC,N/A
+CARRIER  ,3326922 ,ACTIVE  ,"40,000 (2021) ",10/24/2022 ,ANTONIO DE JESUS HERNANDEZ GUTIERREZ , ,"7882 YORKSHIRE AVE
+STANTON, CA   90680-3549  ",(657) 256-8497  ,"7882 YORKSHIRE AVE
+STANTON, CA   90680-3549  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3326922&original_query_string=ANTONIO DE JESUS HERNANDEZ GUTIERREZ,N/A
+CARRIER  ,948102 ,ACTIVE  , ,04/17/2001 ,AJC INC ,ARC IRRIGATION AND LANDSCAPING ,"2196 EAST 3715 SOUTH
+SALT LAKE CITY, UT   84109  ",(000) 274-1411  ,"2196 EAST 3715 SOUTH
+SALT LAKE CITY, UT   84109  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=948102&original_query_string=ARC IRRIGATION AND LANDSCAPING,N/A
+CARRIER  ,1443786 ,ACTIVE  ,"10,000 (2005) ",10/18/2010 ,ARGO CRATES AND CONTAINERS INC , ,"10461 NW 26 STREET
+MIAMI, FL   33172  ",(305) 629-9408  ,"10461 NW 26 STREET
+MIAMI, FL   33172  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1443786&original_query_string=ARGO CRATES AND CONTAINERS INC,N/A
+CARRIER  ,775219 ,ACTIVE  ,"37,621 (1998) ", ,ARLIN FRANKLIN NETHERLAIN ,NETHERLAIN TRUCKING INC ,"601 EAST MAIN
+KEOTA, OK   74941  ",(918) 966-3787  ,"P O BOX 28
+KEOTA, OK   74941  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=775219&original_query_string=ARLIN FRANKLIN NETHERLAIN,N/A
+CARRIER  ,292720 ,ACTIVE  ,"180,063 (2023) ",10/07/2024 ,ARMORED TRANSPORT SERVICE INC , ,"4509 URBANA DR
+FORT SMITH, AR   72904  ",(479) 651-3686  ,"4509 URBANA DR
+FORT SMITH, AR   72904  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=292720&original_query_string=ARMORED TRANSPORT SERVICE INC,N/A
+SHIPPER  ,1126973 ,ACTIVE  , ,05/07/2003 ,ARMORTHANE USA INC , ,"310 SOUTH UNION AVE
+SPRINGFIELD, MO   65802  ",(417) 831-5090  ,"310 SOUTH UNION AVE
+SPRINGFIELD, MO   65802  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1126973&original_query_string=ARMORTHANE USA INC,N/A
+CARRIER/SHIPPER  ,1566123 ,ACTIVE  ,"18,840 (2023) ",02/12/2024 ,ARNOFF MOVING AND STORAGE OF FLORIDA INC , ,"3620 SOUTH US HIGHWAY 1
+FORT PIERCE, FL   34982  ",(772) 461-0046  ,"3620 S US HIGHWAY 1
+FORT PIERCE, FL   34982  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1566123&original_query_string=ARNOFF MOVING AND STORAGE OF FLORIDA INC,N/A
+CARRIER  ,2876501 ,ACTIVE  , ,04/12/2016 ,ARNOLD LUJAN ,IRON HORSE ,"202 W JAX AVE
+MIDLAND, TX   79701-2763  ",(432) 488-8883  ,"PO BOX 1725
+MIDLAND, TX   79702-1725  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2876501&original_query_string=ARNOLD LUJAN,N/A
+CARRIER  ,2945693 ,ACTIVE  ,"169,199 (2022) ",12/27/2022 ,AS & JK TRANSPORT INC , ,"2010 W AVE K # 825
+LANCASTER, CA   93536-5229  ",(661) 390-2786  ,"2010 W AVE K # 825
+LANCASTER, CA   93536-5229  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2945693&original_query_string=AS & JK TRANSPORT INC,N/A
+CARRIER  ,2983010 ,ACTIVE  ,"412,000 (2021) ",04/05/2024 ,ATLANTIC FREIGHT CORPORATION , ,"43623 CARRADOC FARM TER
+LEESBURG, VA   20176  ",(703) 609-4013  ,"43623 CARRADOC FARM TER
+LEESBURG, VA   20176  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2983010&original_query_string=ATLANTIC FREIGHT CORPORATION,N/A
+SHIPPER  ,1126959 ,ACTIVE  , ,05/07/2003 ,ATLANTIC ZEISER , ,"15 PATTON DR
+W CALDWELL, NJ   07006  ",(973) 228-0800  ,"15 PATTON DR
+W CALDWELL, NJ   07006  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1126959&original_query_string=ATLANTIC ZEISER,N/A
+CARRIER  ,1042772 ,ACTIVE  , , ,BRUCE W GILMAN ,B GILMAN TRUCKING ,"PO BOX 75
+BROOKTON, ME   04413  ",(207) 448-2619  ,"PO BOX 75
+BROOKTON, ME   04413  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1042772&original_query_string=B GILMAN TRUCKING,N/A
+CARRIER  ,3748549 ,Inactive USDOT Number per 49 CFR 390.19(b)(4); Biennial update of MCS-150 data not completed  , ,10/21/2021 ,B S M TRANSPORT LLC , ,"3545 MATHER FIELD RD APT 63
+RNCHO CORDOVA, CA   95670  ",(916) 805-7169  ,"3545 MATHER FIELD RD APT 63
+RNCHO CORDOVA, CA   95670-5922  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3748549&original_query_string=B S M TRANSPORT LLC,N/A
+CARRIER  ,2132233 ,ACTIVE  , ,03/18/2011 ,CLYDE T HOAG ,BADGERLAND SECURITY COMPANY ,"122 FRAME AVE
+WAUKESHA, WI   53186  ",(262) 896-2078  ,"SAME
+WAUKESHA, WI   53186  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2132233&original_query_string=BADGERLAND SECURITY COMPANY,N/A
+CARRIER  ,1345665 ,ACTIVE  ,"2,500 (2004) ",06/09/2006 ,SHANE B BALDWYN ,BALDWYN LAND CLEARING INC ,"10471 REID STAFFORD RD
+GLEN ST MARY, FL   32040  ",(904) 259-9947  ,"10471 REID STAFFORD RD
+GLEN ST MARY, FL   32040  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1345665&original_query_string=BALDWYN LAND CLEARING INC,N/A
+CARRIER  ,3675069 ,ACTIVE  ,"268,934 (2023) ",07/25/2024 ,BANFF LOGISTICS INC , ,"143 SKYVIEW POINT RD NE
+CALGARY, AB   T3N 0K4  ",(647) 500-2501  ,"143 SKYVIEW POINT RD NE
+CALGARY, AB   T3N 0K4  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3675069&original_query_string=BANFF LOGISTICS INC,N/A
+CARRIER  ,967395 ,ACTIVE  , ,07/12/2001 ,BANITA CORP , ,"4000 EAST HWY 6
+SPANISH FORK, UT   84660  ",(801) 798-5855  ,"4000 EAST HWY 6
+SPANISH FORK, UT   84660  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=967395&original_query_string=BANITA CORP,N/A
+CARRIER  ,1512935 ,ACTIVE  ,"49,897 (2006) ",06/09/2006 ,BANKS SPILLER , ,"21847 GREEN PINE DR
+WEST BLOCTON, AL   35184-9405  ",(205) 935-3940  ,"21847 GREEN PINE DR
+WEST BLOCTON, AL   35184-9405  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1512935&original_query_string=BANKS SPILLER,N/A
+CARRIER  ,2809912 ,ACTIVE  ,"155,000 (2022) ",02/17/2023 ,BAUER TRANSPORTATION SYSTEMS INC , ,"1612 D MARINA COURT
+SAN MATEO, CA   94403-1613  ",(415) 725-0792  ,"PO BOX 25501
+SAN MATEO, CA   94402-5501  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2809912&original_query_string=BAUER TRANSPORTATION SYSTEMS INC,N/A
+SHIPPER  ,408426 ,ACTIVE  , , ,BEAUTICIAN'S SUPPLY COMPANY INC , ,"818 E 8TH ST
+SIOUX FALLS, SD   57103-1637  ", ,"P O BOX 1143
+SIOUX FALLS, SD   57101-1143  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=408426&original_query_string=BEAUTICIAN'S SUPPLY COMPANY INC,N/A
+CARRIER  ,1100139 ,ACTIVE  ,"30,000 (2023) ",06/26/2024 ,BERGS NURSERY & LANDSCAPE LLC , ,"18936 50TH AVE
+AUSTIN, MN   55912  ",(507) 433-2823  ,"904 1ST AVENUE SW
+AUSTIN, MN   55912  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1100139&original_query_string=BERGS NURSERY & LANDSCAPE LLC,N/A
+CARRIER  ,1202333 ,ACTIVE  ,"292,000 (2003) ",01/20/2004 ,BEST LUMBER COMPANY TRANSPORTATION LLC , ,"1680 CORNELL RD
+GREEN BAY, WI   54313  ",(920) 662-9600  ,"1680 CORNELL RD
+GREEN BAY, WI   54313  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1202333&original_query_string=BEST LUMBER COMPANY TRANSPORTATION LLC,N/A
+CARRIER  ,2983521 ,ACTIVE  ,"50,000 (2023) ",03/05/2024 ,BIG-E LANDSCAPING & EXCAVATING LLC , ,"S923 COUNTY ROAD KK
+NELSON, WI   54756  ",(715) 441-5054  ,"S923 COUNTY ROAD KK
+NELSON, WI   54756  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2983521&original_query_string=BIG-E LANDSCAPING & EXCAVATING LLC,N/A
+CARRIER  ,828590 ,ACTIVE  ,"10,000 (1998) ", ,BILL PARKS TANK SERVICE INC ,BILL PARKS TANK CO ,"1 1/2 MI S OF SEMINOLE HWY 377
+SEMINOLE, OK   74868  ",(405) 382-1111  ,"PO BOX 1648
+SEMINOLE, OK   74868  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=828590&original_query_string=BILL PARKS TANK CO,N/A
+CARRIER  ,828590 ,ACTIVE  ,"10,000 (1998) ", ,BILL PARKS TANK SERVICE INC ,BILL PARKS TANK CO ,"1 1/2 MI S OF SEMINOLE HWY 377
+SEMINOLE, OK   74868  ",(405) 382-1111  ,"PO BOX 1648
+SEMINOLE, OK   74868  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=828590&original_query_string=BILL PARKS TANK SERVICE INC,N/A
+CARRIER  ,483763 ,ACTIVE  , , ,BILL'S AUTO & BODY COMPANY , ,"227 1/2 GADSDEN ST
+CHESTER, SC   29706  ",(803) 385-6748  ,"227 1/2 GADSDEN ST
+CHESTER, SC   29706  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=483763&original_query_string=BILL'S AUTO & BODY COMPANY,N/A
+CARRIER  ,816154 ,ACTIVE  ,"10,000 (1998) ", ,BISCAYNE PUMP SALES AND EQUIPMENT RENTAL , ,"406 NW 54TH ST
+MIAMI, FL   33127-1922  ",(305) 751-1371  ,"406 NW 54TH ST
+MIAMI, FL   33127-1922  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=816154&original_query_string=BISCAYNE PUMP SALES AND EQUIPMENT RENTAL,N/A
+CARRIER  ,3088909 ,ACTIVE  ,1 (2023) ,09/04/2024 ,BLANCO ELECTRIC LLC , ,"148 CARMELINAS CIRCLE
+LUDLOW, MA   01056  ",(413) 330-0062  ,"148 CARMELINAS CIRCLE
+LUDLOW, MA   01056  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3088909&original_query_string=BLANCO ELECTRIC LLC,N/A
+CARRIER  ,1945744 ,ACTIVE  , ,09/28/2009 ,BLOOMIN RANCH SERVICE LLC , ,"401 MAPLE ST
+STUART, NE   68780  ",(402) 924-3136  ,"401 MAPLE ST
+STUART, NE   68780  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1945744&original_query_string=BLOOMIN RANCH SERVICE LLC,N/A
+CARRIER  ,1627434 ,ACTIVE  , ,04/03/2007 ,BOBBY STRICKLAND ,STRICKLAND GRADING ,"293 MATSON ROAD
+MUNFORD, AL   36268  ",(256) 591-5184  ,"PO BOX 285
+MUNFORD, AL   36268  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1627434&original_query_string=BOBBY STRICKLAND,N/A
+CARRIER  ,1488707 ,ACTIVE  ,"628,494 (2006) ",04/15/2006 ,BORIS DANIEL WESTER ,BO WESTER TRUCKING ,"401 W 32ND ST
+RIVIERA BEACH, FL   33404  ",(561) 494-0199  ,"401 W 32ND ST
+RIVIERA BEACH, FL   33404  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1488707&original_query_string=BORIS DANIEL WESTER,N/A
+CARRIER  ,3971696 ,ACTIVE  , ,10/18/2022 ,BOULJO TRANSPORT LLC , ,"249 N CENTER ST APT 2
+ORANGE, NJ   07050-2923  ",(862) 205-4689  ,"249 N CENTER ST APT 2
+ORANGE, NJ   07050-2923  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3971696&original_query_string=BOULJO TRANSPORT LLC,N/A
+CARRIER  ,1046537 ,ACTIVE  , ,07/03/2002 ,BRENTWOOD FRANKLIN WRECKER LLC , ,"7007 OLD MOORE'S LN
+BRENTWOOD, TN   37027  ",(615) 377-1936  ,"PO BOX 681415
+FRANKLIN, TN   37068  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1046537&original_query_string=BRENTWOOD FRANKLIN WRECKER LLC,N/A
+CARRIER  ,620739 ,ACTIVE  ,"1,000 (2001) ",05/10/2002 ,BRIAN & GLENN A BASEL ,BASEL FARMS ,"1462 95TH ST
+NEW RICHMOND, WI   54017  ",(715) 246-5379  ,"1462 95TH ST
+NEW RICHMOND, WI   54017  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=620739&original_query_string=BRIAN & GLENN A BASEL,N/A
+CARRIER  ,1116367 ,ACTIVE  , ,04/08/2003 ,BRIAN LEE STEPKA ,ADVANTAGE TRUCKING ,"278 MAE ROSE AVE
+HOLLAND, MI   49424  ",(616) 218-8544  ,"278 MAE ROSE AVE
+HOLLAND, MI   49424  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1116367&original_query_string=BRIAN LEE STEPKA,N/A
+CARRIER  ,785239 ,ACTIVE  , , ,BRIAN PALMER ,PALMER TRUCKING ,"320 2ND AVE SW
+HAMPTON, IA   50441  ",(641) 456-5917  ,"320 2ND AVE SW
+HAMPTON, IA   50441  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=785239&original_query_string=BRIAN PALMER,N/A
+CARRIER  ,1221048 ,ACTIVE  , ,03/10/2004 ,BROWN AND PRATT INC , ,"1345 BROOKVILLE WAY STE A
+INDIANAPOLIS, IN   46239  ",(317) 353-1664  ,"1345 BROOKVILLE WAY STE A
+INDIANAPOLIS, IN   46239  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1221048&original_query_string=BROWN AND PRATT INC,N/A
+CARRIER  ,1042772 ,ACTIVE  , , ,BRUCE W GILMAN ,B GILMAN TRUCKING ,"PO BOX 75
+BROOKTON, ME   04413  ",(207) 448-2619  ,"PO BOX 75
+BROOKTON, ME   04413  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1042772&original_query_string=BRUCE W GILMAN,N/A
+CARRIER  ,1653869 ,ACTIVE  , ,06/08/2007 ,BRYON JAMES QUINLAN ,WHITE DOVE CONCESSION'S ,"7660 PONTIAC LAKE ROAD
+WHITE LAKE, MI   48386  ",(248) 666-9015  ,"7660 PONTIAC LAKE ROAD
+WHITE LAKE, MI   48386  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1653869&original_query_string=BRYON JAMES QUINLAN,N/A
+CARRIER  ,2068160 ,ACTIVE  , ,08/21/2010 ,JAMES PAUL BRYS SR ,BRYS LAWN AND SNOW ,"35080 MABON
+SAINT CLAIR SHORES, MI   48080  ",(586) 741-6239  ,"PO BOX 521
+SAINT CLAIR SHORES, MI   48080  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2068160&original_query_string=BRYS LAWN AND SNOW,N/A
+CARRIER  ,1430987 ,ACTIVE  ,"510,000 (2005) ",11/01/2005 ,BRYVAN CONSTRUCTION & REPAIR SERVICE INC , ,"3753 SE 3 AVE
+CAPE CORAL, FL   33904  ",(239) 540-8774  ,"3753 SE 3 AVE
+CAPE CORAL, FL   33904  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1430987&original_query_string=BRYVAN CONSTRUCTION & REPAIR SERVICE INC,N/A
+CARRIER  ,1628174 ,ACTIVE  ,"15,000 (2007) ",04/04/2007 ,LESTER RAY GILLESPIE ,BUDS AUTO AND TRUCK REPAIR ,"1001 NORTH WASHINGTON STREET
+LISBON, IA   52253  ",(319) 455-3079  ,"PO BOX 236
+LISBON, IA   52253  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1628174&original_query_string=BUDS AUTO AND TRUCK REPAIR,N/A
+FREIGHT FORWARDER  ,2924793 ,ACTIVE  , ,08/31/2016 ,BULLINS LANDCRAFTERS LLC , ,"1010 LESTER DR
+WALNUT COVE, NC   27052  ",(336) 399-3562  ,"1010 LESTER DR
+WALNUT COVE, NC   27052-6471  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2924793&original_query_string=BULLINS LANDCRAFTERS LLC,N/A
+CARRIER  ,2068739 ,ACTIVE  ,"180,000 (2023) ",08/20/2024 ,C & C DIVERSIFIED SERVICES LLC ,C AND C DIVERSIFIED ,"7954 SW JACK JAMES DR
+STUART, FL   34997  ",(772) 266-4680  ,"7954 SW JACK JAMES DR
+STUART, FL   34997  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2068739&original_query_string=C AND C DIVERSIFIED,N/A
+CARRIER  ,2874624 ,ACTIVE  , ,04/06/2016 ,C&D LANDSCAPING , ,"153 BACK RD
+SHAPLEIGH, ME   04076-4236  ",(207) 636-3289  ,"153 BACK RD
+SHAPLEIGH, ME   04076-4236  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2874624&original_query_string=C&D LANDSCAPING,N/A
+CARRIER  ,912001 ,ACTIVE  , , ,JAMES THOMAS NELSON ,C-N TANK LINE ,"8840 CR 305
+BUNNELL, FL   32110  ",(386) 437-1848  ,"8840 CR 305
+BUNNELL, FL   32110  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=912001&original_query_string=C-N TANK LINE,N/A
+CARRIER  ,3802605 ,OUT-OF-SERVICE  ,"100,000 (2023) ",05/28/2024 ,CALEB PARKS TRANSPORT LLC , ,"231 KELLEY DR
+ROCHELLE, IL   61068-1703  ",(815) 762-2800  ,"231 KELLEY DR
+ROCHELLE, IL   61068-1703  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3802605&original_query_string=CALEB PARKS TRANSPORT LLC,N/A
+CARRIER  ,2606872 ,ACTIVE  , , ,CALIXTO VAZQUEZ ,CALI VAZQUEZ LANDSCAPE ,"13625 GLENOAKS BLVD
+SYLMAR, CA   91342  ",(818) 833-0684  ,"13625 GLENOAKS BLVD
+SYLMAR, CA   91342  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2606872&original_query_string=CALI VAZQUEZ LANDSCAPE,N/A
+CARRIER  ,3775954 ,ACTIVE  ,"22,174 (2022) ",04/24/2023 ,CANYON LOGISTICS LLC , ,"6392 W ANGELA DR
+GLENDALE, AZ   85308  ",(480) 781-1502  ,"6392 W ANGELA DR
+GLENDALE, AZ   85308-3647  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3775954&original_query_string=CANYON LOGISTICS LLC,N/A
+CARRIER  ,1004075 ,ACTIVE  , ,05/14/2003 ,CAREY ALL TRANSPORT INC , ,"835 LILA STREET
+BARTOW, FL   33830  ",(863) 533-4941  ,"835 LILA STREET
+BARTOW, FL   33830  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1004075&original_query_string=CAREY ALL TRANSPORT INC,N/A
+CARRIER  ,4214047 ,OUT-OF-SERVICE  ,"3,000 (2023) ",10/28/2024 ,CARPET AND MORE INC , ,"1106 ROSMAN HIGHWAY
+BREVARD, NC   28712  ",(828) 883-3377  ,"1106 ROSMAN HIGHWAY
+BREVARD, NC   28712  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4214047&original_query_string=CARPET AND MORE INC,N/A
+CARRIER  ,2072006 ,ACTIVE  ,"33,300 (1990) ",09/01/2010 ,CASCADE SIGN AND DESIGN LLC , ,"315 WELLSIAN WAY
+RICHLAND, WA   99352  ",(509) 946-5422  ,"315 WELLSIAN WAY
+RICHLAND, WA   99352  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2072006&original_query_string=CASCADE SIGN AND DESIGN LLC,N/A
+CARRIER  ,3999853 ,ACTIVE  , ,12/17/2022 ,CASJ TRANSPORTATION LLC , ,"24221 SW 112TH CT
+HOMESTEAD, FL   33032  ",(786) 339-6600  ,"24221 SW 112TH CT
+HOMESTEAD, FL   33032-7101  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3999853&original_query_string=CASJ TRANSPORTATION LLC,N/A
+CARRIER  ,1525728 ,ACTIVE  ,100 (2005) ,07/05/2006 ,MARINA CASTANO ,CASTANOS TRUCKING INC ,"5302 PUTNAM CT
+TAMPA, FL   33624  ",(813) 323-8550  ,"5302 PUTNAM CT
+TAMPA, FL   33624  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1525728&original_query_string=CASTANOS TRUCKING INC,N/A
+CARRIER  ,503190 ,ACTIVE  ,"27,854 (2006) ",01/04/2007 ,PHILIP J CASTELLANO ,CASTELLANO TRUCKING ,"1101 CATAMANT ROAD
+PITTSFIELD, NH   03263  ",(603) 435-6507  ,"1101 CATAMANT ROAD
+PITTSFIELD, NH   03263  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=503190&original_query_string=CASTELLANO TRUCKING,N/A
+CARRIER  ,451087 ,ACTIVE  , , ,CENTRAL DISTRIBUTING COMPANY INC , ,"4N953 LAFOX RD
+WASCO, IL   60183  ",(630) 584-5523  ,"P O BOX 299
+WASCO, IL   60183-0299  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=451087&original_query_string=CENTRAL DISTRIBUTING COMPANY INC,N/A
+CARRIER  ,2577651 ,ACTIVE  , ,02/04/2015 ,CHAD AND DEANNA GARMON ,GARMONS LOGGING ,"101 BUTLER BRANCH RD
+COLUMBIA, KY   42728  ",(270) 634-4070  ,"101 BUTLER BRANCH RD
+COLUMBIA, KY   42728  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2577651&original_query_string=CHAD AND DEANNA GARMON,N/A
+CARRIER  ,2606837 ,ACTIVE  , , ,CHANYUN PECH , ,"795 POTTER ST
+BEKRELEY, CA   94710  ",(209) 271-6103  ,"795 POTTER ST
+BEKRELEY, CA   94710  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2606837&original_query_string=CHANYUN PECH,N/A
+CARRIER  ,1257611 ,ACTIVE  , ,06/11/2004 ,CHARLES RONALD VANDEGRIFT , ,"4422 HWY 545
+WINTER GARDEN, FL   34787  ",(407) 656-9271  ,"PO BOX 784165
+WINTER GARDEN, FL   34778  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1257611&original_query_string=CHARLES RONALD VANDEGRIFT,N/A
+SHIPPER  ,405771 ,ACTIVE  , , ,CHEMICAL PRODUCTS COMPANY INC , ,"200 S POST RD
+ABERDEEN, MD   21001  ", ,"200 S POST RD
+ABERDEEN, MD   21001  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=405771&original_query_string=CHEMICAL PRODUCTS COMPANY INC,N/A
+CARRIER  ,1050795 ,ACTIVE  , ,10/21/2002 ,CHUCK DELANCEY ,CHUCK'S FARM SERVICE ,"RR 2 BOX 58
+FULLERTON, NE   68638  ",(308) 536-2721  ,"RR 2 BOX 58
+FULLERTON, NE   68638  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1050795&original_query_string=CHUCK DELANCEY,N/A
+CARRIER  ,3515344 ,ACTIVE  ,"30,000 (2021) ",06/01/2022 ,CJE TRANSPORT CORP , ,"1617 NW 3RD PL
+CAPE CORAL, FL   33993-5104  ",(786) 532-0761  ,"1617 NW 3RD PL
+CAPE CORAL, FL   33993-5104  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3515344&original_query_string=CJE TRANSPORT CORP,N/A
+SHIPPER  ,417218 ,ACTIVE  , , ,CLAREMONT CHEMICAL COMPANY , ,"14 MEMORIAL DR
+CLAREMONT, NH   03743  ", ,"14 MEMORIAL DR
+CLAREMONT, NH   03743  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=417218&original_query_string=CLAREMONT CHEMICAL COMPANY,N/A
+CARRIER  ,1759006 ,ACTIVE  ,"5,000 (2007) ",04/09/2008 ,CLARK ENTERPRISES OF MIDLAND INC ,SANDY RIDGE GOLF COURSE ,"2750 W LAURIA RD
+MIDLAND, MI   48642  ",(989) 631-6010  ,"PO BOX 2121
+MIDLAND, MI   48641  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1759006&original_query_string=CLARK ENTERPRISES OF MIDLAND INC,N/A
+CARRIER  ,1665973 ,ACTIVE  , ,03/13/2008 ,CLEAN CUT LAWN AND GARDEN INC , ,"922 MIDDLE RD
+RIVERHEAD, NY   11901  ",(631) 369-2528  ,"PO BOX 82
+RIVERHEAD, NY   11901  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1665973&original_query_string=CLEAN CUT LAWN AND GARDEN INC,N/A
+CARRIER  ,654827 ,ACTIVE  ,"3,000 () ", ,JAMES M CLIFFORD ,CLIFFORD CONSTRUCTION COMPANY ,"3870 ROYSTER RD
+LEXINGTON, KY   40516  ",(606) 299-7077  ,"3870 ROYSTER RD
+LEXINGTON, KY   40516  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=654827&original_query_string=CLIFFORD CONSTRUCTION COMPANY,N/A
+CARRIER  ,1549577 ,ACTIVE  , ,12/18/2007 ,CLIPPINGER TRANSPORTATION SERVICES INC , ,"2000 EAST GARVEY AVE SOUTH
+WEST COVINA, CA   91791-1911  ",(503) 607-1088  ,"PO BOX 1650
+CLACKAMAS, OR   97015  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1549577&original_query_string=CLIPPINGER TRANSPORTATION SERVICES INC,N/A
+CARRIER  ,2198298 ,ACTIVE  ,"38,000 (2022) ",08/23/2023 ,CMS TRANSPORT LLC , ,"13 WILLOW LANE
+MILFORD, NJ   08848  ",(908) 552-1851  ,"13 WILLOW LANE
+MILFORD, NJ   08848  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2198298&original_query_string=CMS TRANSPORT LLC,N/A
+CARRIER  ,3826229 ,ACTIVE  ,1 (2023) ,04/05/2024 ,COCHRAN & RETTGER INVESTMENTS INC ,OHIO LIFT TRUCK ,"60 WILLIAMS ST
+GRAND RIVER, OH   44045  ",(440) 354-1444  ,"PO BOX 190
+GRAND RIVER, OH   44045  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3826229&original_query_string=COCHRAN & RETTGER INVESTMENTS INC,N/A
+CARRIER  ,1003227 ,ACTIVE  , ,02/06/2002 ,COLEMAN R KYLE ,KYLE R COLEMAN DUMP TRUCK SERVICE ,"390 S 200 W
+MINERSVILLE, UT   84752  ",(435) 386-1526  ,"BOX 266
+MINERSVILLE, UT   84752  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1003227&original_query_string=COLEMAN R KYLE,N/A
+SHIPPER  ,416042 ,ACTIVE  , , ,COMMERCIAL CHEMICAL COMPANY INC , ,"2337 S BIRCH ST
+SANTA ANA, CA   92707-3402  ",(714) 546-6660  ,"P O BOX 2126
+SANTA ANA, CA   92707-0126  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=416042&original_query_string=COMMERCIAL CHEMICAL COMPANY INC,N/A
+CARRIER  ,2271246 ,ACTIVE  ,"10,000 (2023) ",11/01/2024 ,CONTRACT OIL & GAS SERVICE COMPANY , ,"9307 HUFSMITH ROAD
+TOMBALL, TX   77375  ",(281) 351-8411  ,"9307 HUFSMITH ROAD
+TOMBALL, TX   77375  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2271246&original_query_string=CONTRACT OIL & GAS SERVICE COMPANY,N/A
+CARRIER  ,1044962 ,ACTIVE  , ,07/30/2002 ,BILLY D COMPTON ,COOLWATER TRANSPORT ,"166 MARY KAY LN
+DRAIN, OR   97435  ",(541) 530-9880  ,"PO BOX 637
+DRAIN, OR   97435  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1044962&original_query_string=COOLWATER TRANSPORT,N/A
+CARRIER  ,1048492 ,ACTIVE  , , ,ERIC S BLOOM ,COUNTRY ESTATE LANDSCAPE LLC ,"147 OLD NEWTOWN ROAD
+MONROE, CT   06468-1101  ",(203) 268-5147  ,"P O BOX 421
+MONROE, CT   06468-1101  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1048492&original_query_string=COUNTRY ESTATE LANDSCAPE LLC,N/A
+CARRIER  ,4240709 ,ACTIVE  , ,05/15/2024 ,COUNTY ROADS AND DRIVES LLC , ,"14610 HENRY RD
+HOUSTON, TX   77060  ",(832) 527-2686  ,"24094 SEARS LN UNIT 11
+PORTER, TX   77365-7157  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4240709&original_query_string=COUNTY ROADS AND DRIVES LLC,N/A
+CARRIER  ,2144890 ,ACTIVE  ,"151,000 (2023) ",11/17/2024 ,COWBOY CRANE SERVICE LLC , ,"11800 HWY 261
+SIDNEY, MT   59270-9959  ",(406) 489-7961  ,"11800 HWY 261
+SIDNEY, MT   59270-0261  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2144890&original_query_string=COWBOY CRANE SERVICE LLC,N/A
+CARRIER  ,1562367 ,ACTIVE  ,"20,000 (2005) ",10/05/2006 ,JACOB CRAIN ,CRAIN LANDSCAPE AND DESIGN ,"1505 FLAT ROCK ROAD
+TALLASSEE, AL   36078  ",(334) 283-2257  ,"1505 FLAT ROCK ROAD
+TALLASSEE, AL   36078  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1562367&original_query_string=CRAIN LANDSCAPE AND DESIGN,N/A
+CARRIER  ,737922 ,ACTIVE  , , ,CRISMAN SAND COMPANY INC , ,"251 INDIANA AVENUE
+VALPARAISO, IN   46383  ",(219) 462-3114  ,"251 INDIANA AVENUE
+VALPARAISO, IN   46383  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=737922&original_query_string=CRISMAN SAND COMPANY INC,N/A
+CARRIER  ,1816945 ,ACTIVE  , ,10/01/2008 ,CROSS LANDSCAPING & MAINTENANCE LLC , ,"8528 ROYAL WOODS DRIVE
+CLARKSTON, MI   48348  ",(248) 618-0352  ,"8528 ROYAL WOODS DRIVE
+CLARKSTON, MI   48348  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1816945&original_query_string=CROSS LANDSCAPING & MAINTENANCE LLC,N/A
+CARRIER  ,1669292 ,ACTIVE  ,"12,000 (2007) ",07/23/2007 ,CUMBERLAND MOLDED PRODUCTS , ,"225 ALEXANDER DRIVE
+WOODBURY, TN   37190  ",(615) 563-6837  ,"225 ALEXANDER DRIVE
+WOODBURY, TN   37190  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1669292&original_query_string=CUMBERLAND MOLDED PRODUCTS,N/A
+CARRIER  ,1442303 ,ACTIVE  , ,11/10/2005 ,CUMBERLAND VALLEY ENVIRONMENTAL SERVICE , ,"4516 HWY 421 SOUTH
+GRAYS KNOB, KY   40829  ",(606) 573-6300  ,"PO BOX 878
+HARLAN, KY   40831  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1442303&original_query_string=CUMBERLAND VALLEY ENVIRONMENTAL SERVICE,N/A
+CARRIER  ,1075165 ,ACTIVE  ,"1,900 (2005) ",06/28/2006 ,CURRAN CONSTRUCTION INC , ,"40 CRICKLEWOOD RD N
+YONKERS, NY   10704  ",(914) 476-2477  ,"40 CRICKLEWOOD RD N
+YONKERS, NY   10704  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1075165&original_query_string=CURRAN CONSTRUCTION INC,N/A
+CARRIER  ,3925709 ,ACTIVE  , ,07/28/2022 ,D O D DELIVERY ON DEMAND LLC , ,"2689 FISH HATCHERY RD
+WEST COLUMBIA, SC   29172-2094  ",(803) 626-4098  ,"2689 FISH HATCHERY RD
+WEST COLUMBIA, SC   29172-2094  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3925709&original_query_string=D O D DELIVERY ON DEMAND LLC,N/A
+CARRIER  ,2134808 ,ACTIVE  ,1 (2017) ,04/03/2018 ,DACKING TRANSPORT INC , ,"618 NW 46TH AVE
+DELRAY BEACH, FL   33445  ",(202) 460-0856  ,"PO BOX 3761
+BOYNTON BEACH, FL   33424  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2134808&original_query_string=DACKING TRANSPORT INC,N/A
+CARRIER  ,379148 ,ACTIVE  ,"7,500 (2003) ",07/24/2004 ,DALE SANBORN , ,"31090 S D HWY 34
+PIERRE, SD   57501  ",(605) 224-5634  ,"31090 S D HWY 34
+PIERRE, SD   57501-6510  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=379148&original_query_string=DALE SANBORN,N/A
+CARRIER  ,777637 ,ACTIVE  , , ,ROLAND DAMMANN ,DAMMANN FARMS ,"129 ORMSBY ROAD
+ST LIBORY, NE   68872  ",(308) 687-6345  ,"129 ORMSBY ROAD
+ST LIBORY, NE   68872  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=777637&original_query_string=DAMMANN FARMS,N/A
+CARRIER  ,1004510 ,ACTIVE  , ,02/13/2002 ,DAN J PULONE ,DAN PULONE TRUCKING ,"24427 PULONE LN
+ELMIRA, OR   97437  ",(541) 935-3631  ,"24427 PULONE LN
+ELMIRA, OR   97437  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1004510&original_query_string=DAN J PULONE,N/A
+CARRIER  ,1004510 ,ACTIVE  , ,02/13/2002 ,DAN J PULONE ,DAN PULONE TRUCKING ,"24427 PULONE LN
+ELMIRA, OR   97437  ",(541) 935-3631  ,"24427 PULONE LN
+ELMIRA, OR   97437  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1004510&original_query_string=DAN PULONE TRUCKING,N/A
+CARRIER  ,791242 ,ACTIVE  , , ,DANA COLLINS & VECHELLE L RHODES ,D & V DUMP TRUCKS ,"9669 WICKLAND CT
+FISHERS, IN   46038  ",(317) 926-3381  ,"9669 WICKLAND CT
+FISHERS, IN   46038  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=791242&original_query_string=DANA COLLINS & VECHELLE L RHODES,N/A
+CARRIER  ,819319 ,ACTIVE  ,"10,000 (1998) ", ,DANIEL D JOHNSON ,TRI J SANITATION ,"109 WHITETAIL
+OPAL, WY   83124  ",(307) 877-5977  ,"PO BOX 98
+OPAL, WY   83124-0098  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=819319&original_query_string=DANIEL D JOHNSON,N/A
+CARRIER  ,1018275 ,ACTIVE  , , ,DANIEL HEMBREE , ,"715 N UNION
+SHAWNEE, OK   74801  ",(405) 206-4728  ,"PO BOX 125
+SHAWNEE, OK   74802-0125  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1018275&original_query_string=DANIEL HEMBREE,N/A
+CARRIER  ,731805 ,ACTIVE  ,"7,000 (2023) ",10/31/2024 ,DANNY J WILSON , ,"4265 CTY RTE 24
+CAMERON MILLS, NY   14820  ",(607) 776-7598  ,"4265 CTY RTE 24
+CAMERON MILLS, NY   14820  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=731805&original_query_string=DANNY J WILSON,N/A
+CARRIER  ,643042 ,ACTIVE  ,"12,541 () ", ,DANNY LIGGETT , ,"381 LITTLE ZION RD
+DIXON, KY   42409  ",(502) 639-5549  ,"381 LITTLE ZION RD
+DIXON, KY   42409  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=643042&original_query_string=DANNY LIGGETT,N/A
+CARRIER  ,644883 ,ACTIVE  , , ,DARILL L LESTER ,DARILL L LESTER CONSTRUCTION COMPANY ,"1242 BURGIN RD
+HARRODSBURG, KY   40330  ",(606) 734-2477  ,"1242 BURGIN RD
+HARRODSBURG, KY   40330  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=644883&original_query_string=DARILL L LESTER CONSTRUCTION COMPANY,N/A
+CARRIER  ,1257575 ,ACTIVE  , ,06/11/2004 ,DAVID ALAN KALMON , ,"W9761 PERKINSTOWN AVENUE
+MEDFORD, WI   54451  ",(715) 785-7299  ,"W9761 PERKINSTOWN AVENUE
+MEDFORD, WI   54451  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1257575&original_query_string=DAVID ALAN KALMON,N/A
+CARRIER  ,3673367 ,ACTIVE  ,"15,000 (2022) ",07/25/2024 ,DAVIS AND COMPANY LLC , ,"1270 FRIDINGER MILL RD
+WESTMINSTER, MD   21157-3207  ",(443) 955-1491  ,"1270 FRIDINGER MILL RD
+WESTMINSTER, MD   21157-3207  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3673367&original_query_string=DAVIS AND COMPANY LLC,N/A
+CARRIER  ,975696 ,ACTIVE  ,"40,000 () ",08/29/2001 ,DAWSON LAND DEVELOPMENT , ,"310 MEALEY DRIVE
+ATLANTIC BCH, FL   32233  ",(904) 246-8801  ,"310 MEALEY DRIVE
+ATLANTIC BCH, FL   32233  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=975696&original_query_string=DAWSON LAND DEVELOPMENT,N/A
+CARRIER  ,1903006 ,ACTIVE  , ,06/16/2009 ,DEAN FORSMAN ,FORSMAN OUTDOOR ENTERPRISES ,"22 MEARNS WAY
+SOUTH EGREMONT, MA   01258  ",(413) 528-0523  ,"22 MEARNS WAY
+SOUTH EGREMONT, MA   01258  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1903006&original_query_string=DEAN FORSMAN,N/A
+CARRIER  ,1654826 ,ACTIVE  ,"397,896 (2023) ",06/28/2024 ,DEAN J HELLER ,DEAN HELLER TRUCKING ,"103 CURTIS ST
+LOOMIS, NE   68958  ",(402) 340-3410  ,"103 CURTIS ST
+LOOMIS, NE   68958  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1654826&original_query_string=DEAN HELLER TRUCKING,N/A
+CARRIER  ,1654826 ,ACTIVE  ,"397,896 (2023) ",06/28/2024 ,DEAN J HELLER ,DEAN HELLER TRUCKING ,"103 CURTIS ST
+LOOMIS, NE   68958  ",(402) 340-3410  ,"103 CURTIS ST
+LOOMIS, NE   68958  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1654826&original_query_string=DEAN J HELLER,N/A
+CARRIER  ,1657653 ,ACTIVE  , ,06/19/2007 ,DECORATIVE LANDSCAPE CURBING , ,"511 NOBLES ROAD
+DEATSVILLE, AL   36022  ",(334) 569-1465  ,"511 NOBLES ROAD
+DEATSVILLE, AL   36022  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1657653&original_query_string=DECORATIVE LANDSCAPE CURBING,N/A
+CARRIER  ,269880 ,ACTIVE  , , ,RICHARD G DAVID ,DEDE'S FLOWERS & PLANTS ,"1203 TROTTER
+NEW IBERIA, LA   70560  ",(318) 369-6368  ,"1203 TROTTER
+NEW IBERIA, LA   70560  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=269880&original_query_string=DEDE'S FLOWERS & PLANTS,N/A
+SHIPPER  ,417536 ,ACTIVE  , , ,DEFENSE DEPOT MECHANICSBURG , ,"5450 CARLISLE PIKE
+MECHANICSBURG, PA   17055  ", ,"5450 CARLISLE PIKE
+MECHANICSBURG, PA   17055  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=417536&original_query_string=DEFENSE DEPOT MECHANICSBURG,N/A
+CARRIER  ,3994388 ,ACTIVE  ,1 (2023) ,11/29/2024 ,DEMO TRANSPORTATION LLC , ,"4913 W EVANS DR
+GLENDALE, AZ   85306-4425  ",(602) 472-4768  ,"4913 W EVANS DR
+GLENDALE, AZ   85306-4425  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3994388&original_query_string=DEMO TRANSPORTATION LLC,N/A
+CARRIER  ,3612353 ,ACTIVE  ,"15,000 (2023) ",03/22/2024 ,DILLON SCHLIMME ,DILLON'S LAWN & LANDSCAPING ,"221 FAIR STREET
+CLINTON, MN   56225  ",(320) 304-1040  ,"P O BOX 254
+CLINTON, MN   56225  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3612353&original_query_string=DILLON'S LAWN & LANDSCAPING,N/A
+CARRIER  ,1657540 ,ACTIVE  , ,06/19/2007 ,CHARLES G JEHNZEN ,DIRT MERCHANT ,"9956 15 MILE ROAD
+RODNEY, MI   49342  ",(231) 867-3220  ,"9956 15 MILE ROAD
+RODNEY, MI   49342  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1657540&original_query_string=DIRT MERCHANT,N/A
+SHIPPER  ,407878 ,ACTIVE  , , ,DIXIE DISINFECTANT CO , ,"3420 CHELSEA AVE
+MEMPHIS, TN   38108-1967  ", ,"P O BOX 22218
+MEMPHIS, TN   38122-0218  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=407878&original_query_string=DIXIE DISINFECTANT CO,N/A
+SHIPPER  ,545693 ,ACTIVE  , , ,DON SANCHEZ ,UNCLE DON'S AUTO BODY & PAINT ,"713 W DEMING DR
+CHEYENNE, WY   82007  ",(307) 632-0052  ,"713 W DEMING DR
+CHEYENNE, WY   82007  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=545693&original_query_string=DON SANCHEZ,N/A
+CARRIER  ,1783414 ,ACTIVE  ,"6,000 (2007) ",06/18/2008 ,DUANE BORDINE ,BORDINE FARMS ,"4149 BROGAN RD
+STOCKBRIDGE, MI   49285  ",(517) 851-7109  ,"4149 BROGAN RD
+STOCKBRIDGE, MI   49285  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1783414&original_query_string=DUANE BORDINE,N/A
+CARRIER  ,770611 ,ACTIVE  , , ,DUANE CONDO , ,"R R 5 BOX 186
+PERU, IN   46970  ",(765) 689-8376  ,"R R 5 BOX 186
+PERU, IN   46970  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=770611&original_query_string=DUANE CONDO,N/A
+CARRIER  ,788734 ,ACTIVE  , , ,DUANE COOK ,D & D TRUCKING ,"32364 585TH AVE
+CAMBRIDGE, IA   50046  ",(515) 383-4348  ,"32364 585TH AVE
+CAMBRIDGE, IA   50046  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=788734&original_query_string=DUANE COOK,N/A
+CARRIER  ,3887193 ,ACTIVE  , ,05/20/2022 ,DYLAN K LOGISTICS LLC , ,"6123 WOODFIELD DR SE APT 10
+GRAND RAPIDS, MI   49548  ",(404) 734-0194  ,"6123 WOODFIELD DR SE APT 10
+GRAND RAPIDS, MI   49548-8535  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3887193&original_query_string=DYLAN K LOGISTICS LLC,N/A
+CARRIER  ,697112 ,ACTIVE  , , ,E & E TRUCKING COMPANY INC , ,"HWY 1140 S
+BEVERLY, KY   40913  ",(606) 337-3261  ,"HC 69 BOX 625
+BEVERLY, KY   40913-0625  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=697112&original_query_string=E & E TRUCKING COMPANY INC,N/A
+CARRIER  ,3084974 ,ACTIVE  ,1 (2022) ,04/26/2023 ,EBENSBURG POWER COMPANY , ,"2840 NEW GERMANY RD
+EBENSBURG, PA   15931-3505  ",(814) 472-1140  ,"2840 NEW GERMANY RD
+EBENSBURG, PA   15931-3505  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3084974&original_query_string=EBENSBURG POWER COMPANY,N/A
+CARRIER/SHIPPER  ,1287789 ,ACTIVE  , ,09/21/2004 ,ECUAHISPANO INC , ,"2200 SAN CRISTABOLO DR 103
+KISSIMMEE, FL   34741  ",(407) 933-8346  ,"2200 SAN CRISTABOLO DR 103
+KISSIMMEE, FL   34741  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1287789&original_query_string=ECUAHISPANO INC,N/A
+CARRIER  ,2015676 ,ACTIVE  ,"20,000 (2009) ",04/02/2010 ,MARCUS N HICKS-NASH ,EDEN TRANSPORTATION ,"36175 GRAND RIVER AVE
+FARMINGTON, MI   48335  ",(248) 885-7140  ,"36175 GRAND RIVER AVE
+FARMINGTON, MI   48335  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2015676&original_query_string=EDEN TRANSPORTATION,N/A
+CARRIER  ,1463504 ,ACTIVE  ,"20,000 (2017) ",01/16/2019 ,EHRLICHMANN STRUCTURAL MOVERS LLC , ,"33455 201ST AVENUE
+CLARISSA, MN   56440  ",(320) 630-0297  ,"33455 201ST AVENUE
+CLARISSA, MN   56440  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1463504&original_query_string=EHRLICHMANN STRUCTURAL MOVERS LLC,N/A
+CARRIER  ,3334979 ,ACTIVE  ,1 (2018) ,09/17/2019 ,EMANUEL RODRIGUEZ ,DALE TRUCKING ,"1811 SE 3211
+ANDREWS, TX   79714-2224  ",(432) 209-8529  ,"PO BOX 1512
+ANDREWS, TX   79714-1512  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3334979&original_query_string=EMANUEL RODRIGUEZ,N/A
+CARRIER  ,2322079 ,ACTIVE  ,"6,000 (2022) ",08/21/2023 ,EVANS PLUMBING & AIR CONDITIONING INC , ,"40502 OLD HWY 45 SOUTH
+HAMILTON, MS   39746  ",(662) 343-5391  ,"PO BOX 175
+HAMILTON, MS   39746  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2322079&original_query_string=EVANS PLUMBING & AIR CONDITIONING INC,N/A
+CARRIER  ,2805789 ,ACTIVE  , , ,KENNETH SLOAN DOBBINS ,EXECUTIVE LIMOUSINE TRANSPORTATION ,"600 SOUTH JEFFERSON K
+PLACENTIA, CA   92670  ",(714) 540-9700  ,"600 SOUTH JEFFERSON K
+PLACENTIA, CA   92670  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2805789&original_query_string=EXECUTIVE LIMOUSINE TRANSPORTATION,N/A
+CARRIER  ,3952291 ,ACTIVE  ,1 (2022) ,01/04/2023 ,EXPRESS ONE TRANSPORT LLC , ,"935 NORTH ST
+GREENWOOD, NE   68366  ",(402) 480-2577  ,"935 NORTH ST
+GREENWOOD, NE   68366-2628  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3952291&original_query_string=EXPRESS ONE TRANSPORT LLC,N/A
+CARRIER  ,3268482 ,ACTIVE  ,"68,000 (2023) ",04/12/2024 ,F&W TRANSPORT CORP , ,"2157 SOUTHERN BLVD APT 2H
+BRONX, NY   10460  ",(646) 721-7992  ,"2157 SOUTHERN BLVD APT 2H
+BRONX, NY   10460-1168  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3268482&original_query_string=F&W TRANSPORT CORP,N/A
+CARRIER/SHIPPER  ,1627492 ,ACTIVE  , ,04/03/2007 ,FACTOTUM TRANSPORT LLC , ,"165 RENDEZVOUS ROAD
+RIVERTON, WY   82501  ",(307) 851-5059  ,"PO BOX 301
+RIVERTON, WY   82501  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1627492&original_query_string=FACTOTUM TRANSPORT LLC,N/A
+CARRIER  ,2774661 ,ACTIVE  , , ,FRANCISCO J HERNANDEZ ,FAST TRANSPORTATION ,"6800 MARLOW AVE
+BEL GARDENS, CA   90201  ",(323) 637-8300  ,"6800 MARLOW AVE
+BEL GARDENS, CA   90201  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2774661&original_query_string=FAST TRANSPORTATION,N/A
+BROKER  ,3985973 ,ACTIVE  ,0 (2024) ,11/17/2024 ,FASTRACK COMPANIES ,FASTRACK LOGISTICS ,"159 STONEHAM DR
+WOONSOCKET, RI   02895  ",(401) 258-1727  ,"159 STONEHAM DR
+WOONSOCKET, RI   02895-2712  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3985973&original_query_string=FASTRACK COMPANIES,N/A
+CARRIER  ,3312395 ,ACTIVE  ,"2,000 (2022) ",02/20/2023 ,NC LIMOUSINE GROUP LLC ,FAYETTEVILLE REGIONAL TAXI AND LIMO RDU CAR SERVICE AND LIMOUSINE CHARLOTTE CAR SERVICE AND LIMOUSINE WILMINGTON CAR SER ,"2255 SHAW RD EXT
+FAYETTEVILLE, NC   28311-1832  ",(910) 500-6868  ,"2255 SHAW RD EXT
+FAYETTEVILLE, NC   28311-1832  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3312395&original_query_string=FAYETTEVILLE REGIONAL TAXI AND LIMO RDU CAR SERVICE AND LIMOUSINE CHARLOTTE CAR SERVICE AND LIMOUSINE WILMINGTON CAR SER,N/A
+CARRIER  ,2852623 ,ACTIVE  , , ,FELIPE O CASTANEDA JOAQUIN ,F C TRUCKING ,"8741 MARLENE ST
+RIVERSIDE, CA   92503  ",(951) 275-6556  ,"8741 MARLENE ST
+RIVERSIDE, CA   92503  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2852623&original_query_string=FELIPE O CASTANEDA JOAQUIN,N/A
+CARRIER  ,3790915 ,ACTIVE  ,"20,000 (2022) ",05/30/2023 ,FILEMON TORRES SANCHEZ ,CRUCES FRONTERIZOS EXPRESS CFE ,"FRANCISCO RIOJAS 5805
+NUEVO LAREDO, TA   88100  ",(956) 282-3404  ,"602 W CALTON RD STE 4D
+LAREDO, TX   78041  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3790915&original_query_string=FILEMON TORRES SANCHEZ,N/A
+CARRIER  ,722158 ,ACTIVE  , , ,FLANDERS INC , ,"985 W 500 S
+WEST BOUNTIFUL, UT   84087  ",(801) 298-4046  ,"PO BOX 870325
+WEST BOUNTIFUL, UT   84087  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=722158&original_query_string=FLANDERS INC,N/A
+CARRIER  ,2748250 ,ACTIVE  , , ,GALLARDO CLAUDIA ,FONTANA CARPET CLEANING ,"2851 S. LA CADENA #147
+COLTON, CA   92324  ",(909) 350-9355  ,"2851 S. LA CADENA #147
+COLTON, CA   92324  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2748250&original_query_string=FONTANA CARPET CLEANING,N/A
+SHIPPER  ,417389 ,ACTIVE  , , ,FORMAN FORD PAINT , ,"1200 MENDELSSOHN AVE N
+GOLDEN VALLEY, MN   55427  ",(612) 545-1487  ,"1200 MENDELSSOHN AVE N
+GOLDEN VALLEY, MN   55427  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=417389&original_query_string=FORMAN FORD PAINT,N/A
+CARRIER  ,1903006 ,ACTIVE  , ,06/16/2009 ,DEAN FORSMAN ,FORSMAN OUTDOOR ENTERPRISES ,"22 MEARNS WAY
+SOUTH EGREMONT, MA   01258  ",(413) 528-0523  ,"22 MEARNS WAY
+SOUTH EGREMONT, MA   01258  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1903006&original_query_string=FORSMAN OUTDOOR ENTERPRISES,N/A
+CARRIER  ,1533993 ,ACTIVE  ,"15,000 (2005) ",03/27/2006 ,GUARANTY PEST CONTROL INC ,FOUNDATION REPAIRS AND HOME IMPROVEMENTS INC ,"500 NORTH 13TH ST
+BESSEMER, AL   35021  ",(205) 424-2480  ,"POST OFFICE BOX 569
+BESSEMER, AL   35021  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1533993&original_query_string=FOUNDATION REPAIRS AND HOME IMPROVEMENTS INC,N/A
+CARRIER  ,1653033 ,ACTIVE  ,"10,000 (2006) ",05/29/2019 ,JAMES A NAUGHTON ,FOXES FORD PROPERTY MANAGEMENT ,"85 JAGGER LANE
+WESTHAMPTON, NY   11977  ",(631) 288-2071  ,"PO BOX 61
+WESTHAMPTON, NY   11977  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1653033&original_query_string=FOXES FORD PROPERTY MANAGEMENT,N/A
+CARRIER  ,902760 ,ACTIVE  ,"30,000 (2001) ",08/15/2002 ,FRANCIS B REYNOLDS ,BRITCHES TRUCKING & GRADING SERVICE ,"13116 W STARK ST
+BUTLER, WI   53007-1434  ",(262) 781-9441  ,"P O BOX 159
+BUTLER, WI   53007-0159  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=902760&original_query_string=FRANCIS B REYNOLDS,N/A
+CARRIER  ,2774661 ,ACTIVE  , , ,FRANCISCO J HERNANDEZ ,FAST TRANSPORTATION ,"6800 MARLOW AVE
+BEL GARDENS, CA   90201  ",(323) 637-8300  ,"6800 MARLOW AVE
+BEL GARDENS, CA   90201  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2774661&original_query_string=FRANCISCO J HERNANDEZ,N/A
+CARRIER  ,1968843 ,ACTIVE  ,"47,550 (2023) ",02/29/2024 ,FRANCO BROS CARTING CORP , ,"114 RAILROAD STREET
+HUNTINGTON STATION, NY   11746  ",(631) 673-2252  ,"114 RAILROAD STREET
+HUNTINGTON STATION, NY   11746  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1968843&original_query_string=FRANCO BROS CARTING CORP,N/A
+CARRIER  ,718223 ,ACTIVE  ,"93,697 (2021) ",05/15/2024 ,FRANK COLLIER ,FRANK COLLIER TRUCKING ,"711 FRENCH ST
+YREKA, CA   96097  ",(530) 842-2226  ,"PO BOX 1202
+YREKA, CA   96097  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=718223&original_query_string=FRANK COLLIER,N/A
+CARRIER  ,718223 ,ACTIVE  ,"93,697 (2021) ",05/15/2024 ,FRANK COLLIER ,FRANK COLLIER TRUCKING ,"711 FRENCH ST
+YREKA, CA   96097  ",(530) 842-2226  ,"PO BOX 1202
+YREKA, CA   96097  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=718223&original_query_string=FRANK COLLIER TRUCKING,N/A
+CARRIER  ,2143130 ,ACTIVE  , ,04/14/2011 ,FRANKS TOWING , ,"2044 UDALL LN
+SAN LUIS, AZ   85349  ",(928) 261-2125  ,"2044 UDALL LN
+SAN LUIS, AZ   85349  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2143130&original_query_string=FRANKS TOWING,N/A
+CARRIER  ,3976447 ,ACTIVE  ,"30,000 (2023) ",12/20/2023 ,FRANKYJ23 TRANSPORT LLC , ,"3377 CALIFORNIA AVE
+SIGNAL HILL, CA   90755-4605  ",(213) 494-7314  ,"3377 CALIFORNIA AVE
+SIGNAL HILL, CA   90755-4605  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3976447&original_query_string=FRANKYJ23 TRANSPORT LLC,N/A
+CARRIER  ,1452590 ,ACTIVE  , ,01/17/2006 ,GUILHERME G SANTOS ,G SANTOS TRUCKING ,"2016 BEARING LANE
+KISSIMMEE, FL   34744  ",(321) 284-4296  ,"2016 BEARING LANE
+KISSIMMEE, FL   34744  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1452590&original_query_string=G SANTOS TRUCKING,N/A
+CARRIER  ,2774614 ,ACTIVE  , , ,GILBERTO G SANCHEZ ,COMPLETE GARDENING SERVICE ,"505 PERRIS BLVD.
+PERRIS, CA   92570  ",(909) 648-8441  ,"505 PERRIS BLVD.
+PERRIS, CA   92570  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2774614&original_query_string=GILBERTO G SANCHEZ,N/A
+SHIPPER  ,408306 ,ACTIVE  , , ,GO-DA COMPANY , ,"HWY 431
+GUNTERSVILLE, AL   35976-9492  ", ,"P O BOX 67
+GUNTERSVILLE, AL   35976-0067  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=408306&original_query_string=GO-DA COMPANY,N/A
+CARRIER  ,4001913 ,ACTIVE  , ,12/22/2022 ,GOFORAY TRANSPORTATION LLC ,TRANSPORTATION ,"17538 CALCITE DR
+HAGERSTOWN, MD   21740  ",(240) 520-8444  ,"17538 CALCITE DR
+HAGERSTOWN, MD   21740-2098  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4001913&original_query_string=GOFORAY TRANSPORTATION LLC,N/A
+CARRIER  ,3845503 ,ACTIVE  ,"10,000 (2023) ",01/30/2024 ,GEORGE'S ORNAMENTALS & TURF LLC ,GOT LANDSCAPING ,"16 PINE TRL
+CARMEL, NY   10512  ",(201) 344-1518  ,"16 PINE TRL
+CARMEL, NY   10512  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3845503&original_query_string=GOT LANDSCAPING,N/A
+CARRIER  ,646394 ,ACTIVE  ,"15,796 () ", ,GRANT COUNTY SEPTIC SERVICE , ,"1195 GARDNERSVILLE ROAD
+CRITTENDEN, KY   41030  ",(606) 428-1460  ,"1195 GARDNERSVILLE ROAD
+CRITTENDEN, KY   41030  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=646394&original_query_string=GRANT COUNTY SEPTIC SERVICE,N/A
+CARRIER  ,954663 ,ACTIVE  , ,05/11/2001 ,GRAY AND SON INC , ,"9449 KEYES LN
+DUNDEE, OR   97115  ",(503) 538-9325  ,"PO BOX 308
+DUNDEE, OR   97115  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=954663&original_query_string=GRAY AND SON INC,N/A
+CARRIER  ,1545502 ,ACTIVE  , ,08/22/2006 ,GREEN CASTEL D RESTORATION AND MANAGEMENT INC , ,"50 ELLS WORTH AVE
+BRONX, NY   10465  ",(917) 417-3401  ,"50 ELLS WORTH AVE
+BRONX, NY   10465  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1545502&original_query_string=GREEN CASTEL D RESTORATION AND MANAGEMENT INC,N/A
+CARRIER  ,2251502 ,ACTIVE  ,"50,000 (2010) ",01/14/2016 ,GREGORY EVANS MOORE ,MOORE LOCKDOWN AND MAINTENANCE ,"1611 MAIN ST
+SNOVER, MI   48472  ",(810) 672-9649  ,"1611 MAIN ST
+SNOVER, MI   48472  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2251502&original_query_string=GREGORY EVANS MOORE,N/A
+CARRIER  ,1288296 ,ACTIVE  ,"277,000 (2021) ",02/25/2022 ,MARCELINO GONZALEZ ,GRUAS BAZAN ,"2957 S ALANE ST
+WEST VALLEY CITY, UT   84120  ",(801) 548-1565  ,"2957 S ALANE ST
+WEST VALLEY CITY, UT   84120  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1288296&original_query_string=GRUAS BAZAN,N/A
+CARRIER  ,1533993 ,ACTIVE  ,"15,000 (2005) ",03/27/2006 ,GUARANTY PEST CONTROL INC ,FOUNDATION REPAIRS AND HOME IMPROVEMENTS INC ,"500 NORTH 13TH ST
+BESSEMER, AL   35021  ",(205) 424-2480  ,"POST OFFICE BOX 569
+BESSEMER, AL   35021  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1533993&original_query_string=GUARANTY PEST CONTROL INC,N/A
+CARRIER  ,2812708 ,ACTIVE  ,"50,000 (2016) ",11/30/2015 ,GUERRA TRANSPORT INC , ,"13641 SW 24TH ST
+MIAMI, FL   33175  ",(786) 428-8940  ,"13641 SW 24TH ST
+MIAMI, FL   33175  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2812708&original_query_string=GUERRA TRANSPORT INC,N/A
+CARRIER  ,1452590 ,ACTIVE  , ,01/17/2006 ,GUILHERME G SANTOS ,G SANTOS TRUCKING ,"2016 BEARING LANE
+KISSIMMEE, FL   34744  ",(321) 284-4296  ,"2016 BEARING LANE
+KISSIMMEE, FL   34744  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1452590&original_query_string=GUILHERME G SANTOS,N/A
+CARRIER  ,928830 ,ACTIVE  , , ,GULF COAST SHRINKWRAP & TRANSPORT INC , ,"129 PALMETTO LANE
+LARGO, FL   33770  ",(727) 517-7749  ,"2804 WEST BAY DRIVE # 203
+BELLEAIR BLUFFS, FL   33770  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=928830&original_query_string=GULF COAST SHRINKWRAP & TRANSPORT INC,N/A
+CARRIER  ,3288125 ,ACTIVE  ,1 (2024) ,04/12/2024 ,GUZMAN TRUCKING LLC , ,"6554 LARNE AVE
+JACKSONVILLE, FL   32244  ",(786) 532-6030  ,"6554 LARNE AVE
+JACKSONVILLE, FL   32244  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3288125&original_query_string=GUZMAN TRUCKING LLC,N/A
+CARRIER  ,1555393 ,ACTIVE  , ,03/03/2007 ,MICHAEL LEE HAMMOND ,HAMMOND REPAIR SERVICE AND FARM ,"HIGHWAY 183 SOUTH
+MARION, AL   36756  ",(334) 683-4665  ,"ROUTE 2 BOX 200
+MARION, AL   36756  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1555393&original_query_string=HAMMOND REPAIR SERVICE AND FARM,N/A
+CARRIER  ,719675 ,ACTIVE  , , ,MARY JANE HANEY ,HANEY'S ,"508 E 8TH ST
+SHERIDAN, IN   46069  ",(317) 758-1810  ,"508 E 8TH ST
+SHERIDAN, IN   46069  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=719675&original_query_string=HANEY'S,N/A
+CARRIER  ,1645097 ,ACTIVE  , ,05/16/2007 ,HERMAN LEE KNIGHT , ,"11069 BUFFALO TRACE RD
+PALMYRA, IN   47164  ",(812) 364-6340  ,"11069 BUFFALO TRACE RD
+PALMYRA, IN   47164  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1645097&original_query_string=HERMAN LEE KNIGHT,N/A
+CARRIER/SHIPPER  ,385443 ,ACTIVE  ,"30,000 (2023) ",03/01/2024 ,HI-PLAINS SAND INC , ,"1896 AVE M
+KANOPOLIS, KS   67454-9559  ",(785) 472-4880  ,"1896 AVENUE M
+KANOPOLIS, KS   67454  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=385443&original_query_string=HI-PLAINS SAND INC,N/A
+CARRIER  ,663717 ,ACTIVE  , , ,HIGHLAND INCORPORATED , ,"1377 HUTCHERSON LN
+ELIZABETHTOWN, KY   42701  ",(502) 769-1005  ,"PO BOX 2051
+ELIZABETHTOWN, KY   42702  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=663717&original_query_string=HIGHLAND INCORPORATED,N/A
+CARRIER  ,1431091 ,ACTIVE  , ,09/01/2005 ,HINES TRANSPORT INC , ,"404 SHEPPARD ROAD
+VENUS, FL   33960  ",(863) 441-4245  ,"404 SHEPPARD ROAD
+VENUS, FL   33960  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1431091&original_query_string=HINES TRANSPORT INC,N/A
+CARRIER  ,3155984 ,ACTIVE  ,"10,000 (2023) ",04/09/2024 ,HOWARD-WILDER LAND MANAGEMENT LLC , ,"3185 HIGHWAY 93 N
+PELHAM, GA   31779-4425  ",(229) 221-0918  ,"PO BOX 426
+PELHAM, GA   31779  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3155984&original_query_string=HOWARD-WILDER LAND MANAGEMENT LLC,N/A
+CARRIER  ,351433 ,ACTIVE  ,"90,000 (1999) ",03/30/2005 ,HOWCO OIL COMPANY , ,"217 E SHEPHERD ST
+NASHVILLE, AR   71852-2111  ",(501) 285-3556  ,"P O BOX 813
+NASHVILLE, AR   71852-0813  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=351433&original_query_string=HOWCO OIL COMPANY,N/A
+CARRIER  ,1635573 ,ACTIVE  ,"101,286 (2020) ",06/28/2024 ,INSTANT GROWTH HYDROSEEDING LLC ,HYDROHAUL ,"140 VIP DRIVE
+MASONTOWN, WV   26542-0000  ",(304) 864-7897  ,"140 VIP DRIVE
+MASONTOWN, WV   26542-0000  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1635573&original_query_string=INSTANT GROWTH HYDROSEEDING LLC,N/A
+CARRIER  ,1908188 ,ACTIVE  , ,08/14/2009 ,ISLAND CRANE SERVICES INC , ,"4967 HARBOR HILLS DR
+FREELAND, WA   98249  ",(360) 331-3131  ,"P O BOX 308
+FREELAND, WA   98249  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1908188&original_query_string=ISLAND CRANE SERVICES INC,N/A
+CARRIER  ,2745213 ,ACTIVE  , , ,ISLAND WOOD AUTOMATION INC ,PHV CUSTOM CABINETS ,"3121 MAIN ST STE I
+CHULA VISTA, CA   91911  ",(619) 426-3066  ,"3121 MAIN ST STE I
+CHULA VISTA, CA   91911  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2745213&original_query_string=ISLAND WOOD AUTOMATION INC,N/A
+CARRIER  ,3298455 ,ACTIVE  ,"10,000 (2023) ",05/30/2024 ,J & C PROPERTY MANGAMENT ,JACKSON & COMPANY PROPERTY MANGAMENT ,"110 YEARSLEY MILL RD
+MEDIA, PA   19063-5518  ",(610) 637-5408  ,"110 YEARSLEY MILL RD
+MEDIA, PA   19063-5518  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3298455&original_query_string=J & C PROPERTY MANGAMENT,N/A
+CARRIER  ,940235 ,ACTIVE  , ,03/10/2001 ,J & G LANDSCAPING INC , ,"4316 W HIGHWAY ST
+CASPER, WY   82604  ",(307) 234-3874  ,"4316 W HIGHWAY ST
+CASPER, WY   82604  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=940235&original_query_string=J & G LANDSCAPING INC,N/A
+CARRIER  ,855060 ,ACTIVE  , ,02/13/2001 ,JESUS H GIMENEZ ,J G CARGO TRANSPORT ,"5071 W HWY 316
+CITRA, FL   32113  ",(352) 595-8714  ,"5071 W HWY 316
+CITRA, FL   32113  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=855060&original_query_string=J G CARGO TRANSPORT,N/A
+CARRIER  ,2103869 ,ACTIVE  , ,12/16/2010 ,J P FUEL TRANSPORT INC , ,"16055 SR 52, STE 201
+LAND O' LAKES, FL   34638  ",(813) 406-4813  ,"16055 SR 52. STE 201
+LAND O' LAKES, FL   34638  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2103869&original_query_string=J P FUEL TRANSPORT INC,N/A
+CARRIER  ,3298455 ,ACTIVE  ,"10,000 (2023) ",05/30/2024 ,J & C PROPERTY MANGAMENT ,JACKSON & COMPANY PROPERTY MANGAMENT ,"110 YEARSLEY MILL RD
+MEDIA, PA   19063-5518  ",(610) 637-5408  ,"110 YEARSLEY MILL RD
+MEDIA, PA   19063-5518  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3298455&original_query_string=JACKSON & COMPANY PROPERTY MANGAMENT,N/A
+CARRIER  ,1014494 ,ACTIVE  , ,03/18/2002 ,JAIME S SANTIAGO ,JN TRANSPORTATION ,"94 N NORMANDALE AVE
+ORLANDO, FL   32835  ",(407) 578-9486  ,"94 N NORMANDALE AVE
+ORLANDO, FL   32835  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1014494&original_query_string=JAIME S SANTIAGO,N/A
+CARRIER  ,1545483 ,ACTIVE  ,"4,500 (2005) ",08/22/2006 ,JAMES BRANDENBURG , ,"10695 SEBEWAING ROAD
+SEBEWAING, MI   48759  ",(989) 883-3856  ,"10695 SEBEWAING ROAD
+SEBEWAING, MI   48759  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1545483&original_query_string=JAMES BRANDENBURG,N/A
+CARRIER  ,1215780 ,ACTIVE  , ,02/27/2004 ,JAMES C ODANIEL , ,"402 N WOODLAWN AVE
+LEBANON, KY   40033-1070  ",(270) 692-2190  ,"402 N WOODLAWN AVE
+LEBANON, KY   40033-1070  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1215780&original_query_string=JAMES C ODANIEL,N/A
+CARRIER  ,782258 ,ACTIVE  ,"26,080 (1998) ", ,JAMES E BOHANNAN , ,"P O BOX 451237
+GROVE, OK   74345-1237  ",(918) 854-3342  ,"P O BOX 451237
+GROVE, OK   74345-1237  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=782258&original_query_string=JAMES E BOHANNAN,N/A
+CARRIER  ,4178209 ,ACTIVE  , ,01/16/2024 ,JAMES FLANNIGAN IV LIVING ESTATE TRUST , ,"1368 WEST CORONADO STREET
+UPLAND, CA   91786  ",(602) 582-4166  ,"5158 W FULTON ST
+PHOENIX, AZ   85043-1999  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4178209&original_query_string=JAMES FLANNIGAN IV LIVING ESTATE TRUST,N/A
+CARRIER  ,1154584 ,ACTIVE  ,"20,000 (2002) ",07/10/2003 ,JAMES WIGHTMAN ,JSW ENTERPRISE ,"1935 RT 80
+NEW WOODSTOCK, NY   13122  ",(315) 662-7554  ,"1935 RT 80
+NEW WOODSTOCK, NY   13122  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1154584&original_query_string=JAMES WIGHTMAN,N/A
+CARRIER  ,715863 ,ACTIVE  , , ,JAMES WILLIAM LONG & ANTHONY RAINWATER ,L A R G E TRUCKING ,"233 LOCUST HEIGHTS
+NICHOLASVILLE, KY   40356  ",(606) 887-4875  ,"233 LOCUST HEIGHTS
+NICHOLASVILLE, KY   40356  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=715863&original_query_string=JAMES WILLIAM LONG & ANTHONY RAINWATER,N/A
+SHIPPER  ,401631 ,ACTIVE  , , ,JANEL INTERNATIONAL , ,"2567 GREENLEAF AVE
+ELK GROVE VILLAGE, IL   60007  ", ,"2567 GREENLEAF AVE
+ELK GROVE VILLAGE, IL   60007  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=401631&original_query_string=JANEL INTERNATIONAL,N/A
+CARRIER  ,1726627 ,ACTIVE  , ,01/14/2008 ,JANICE MORSE INC ,DESIGNS UNLIMITED ,"3160 HAGGERTY ROAD SUITE N
+WEST BLOOMFIELD, MI   48323  ",(248) 624-7300  ,"3160 HAGGERTY ROAD SUITE N
+WEST BLOOMFIELD, MI   48323  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1726627&original_query_string=JANICE MORSE INC,N/A
+CARRIER  ,2131977 ,ACTIVE  , ,03/18/2011 ,JANSSEN GRAIN , ,"822 WREN AVE
+ACKLEY, IA   50601  ",(641) 425-1761  ,"822 WREN AVE
+ACKLEY, IA   50601  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2131977&original_query_string=JANSSEN GRAIN,N/A
+CARRIER  ,948010 ,ACTIVE  , ,04/03/2001 ,JAY SCHUMANN , ,"1473 DOGWOOD AVE
+ALEXANDER, IA   50420  ",(641) 579-6005  ,"1473 DOGWOOD AVE
+ALEXANDER, IA   50420  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=948010&original_query_string=JAY SCHUMANN,N/A
+CARRIER  ,3232253 ,ACTIVE  , ,01/14/2019 ,JOSHUA BEAN ,JB TRUCKING AND TRANSPORT ,"9480 GARDNER ST
+BEAUMONT, TX   77707-1121  ",(409) 659-7485  ,"9480 GARDNER ST
+BEAUMONT, TX   77707-1121  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3232253&original_query_string=JB TRUCKING AND TRANSPORT,N/A
+CARRIER  ,4165864 ,ACTIVE  ,1 (2023) ,05/23/2024 ,JEAN FEBRES CORDERO , ,"234 SE 3RD AVE
+BOYNTON BEACH, FL   33435  ",(561) 870-4493  ,"234 SE 3RD AVE
+BOYNTON BEACH, FL   33435  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4165864&original_query_string=JEAN FEBRES CORDERO,N/A
+CARRIER  ,1009413 ,ACTIVE  ,800 (2000) ,11/08/2001 ,JEROME E KANE , ,"N2926 320TH STREET
+MAIDEN ROCK, WI   54750  ",(715) 647-2064  ,"N2926 320TH STREET
+MAIDEN ROCK, WI   54750  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1009413&original_query_string=JEROME E KANE,N/A
+CARRIER  ,1565966 ,ACTIVE  ,"15,000 (2005) ",10/11/2006 ,GERALD F DECKER JR ,JERRY DECKER LANDSCAPING ,"5137 STATE ROUTE 96
+SHORTSVILLE, NY   14548-9700  ",(585) 289-9885  ,"5137 STATE ROUTE 96
+SHORTSVILLE, NY   14548-9700  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1565966&original_query_string=JERRY DECKER LANDSCAPING,N/A
+CARRIER  ,889816 ,ACTIVE  ,"50,000 (1999) ", ,JERRY W NORMAN SR , ,"RT 2 BOX 974
+GLEN ST MARY, FL   32040  ",(904) 259-7528  ,"RT 2 BOX 974
+GLEN ST MARY, FL   32040  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=889816&original_query_string=JERRY W NORMAN SR,N/A
+CARRIER  ,2356297 ,ACTIVE  ,"26,000 (2015) ",09/12/2015 ,JESSICA VAUGHAN BAKER ,BAKER TRUCKING ,"110 FALCON COVE
+MIDDLETON, TN   38052  ",(731) 609-9773  ,"110 FALCON COVE
+MIDDLETON, TN   38052  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2356297&original_query_string=JESSICA VAUGHAN BAKER,N/A
+CARRIER  ,3325128 ,ACTIVE  ,"10,000 (2021) ",09/29/2022 ,JETTA OPERATING COMPANY INC , ,"444 SOUTH HWY 516
+BARSTOW, TX   79719  ",(432) 447-0398  ,"444 SOUTH HWY 516
+BARSTOW, TX   79719  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3325128&original_query_string=JETTA OPERATING COMPANY INC,N/A
+CARRIER  ,1014494 ,ACTIVE  , ,03/18/2002 ,JAIME S SANTIAGO ,JN TRANSPORTATION ,"94 N NORMANDALE AVE
+ORLANDO, FL   32835  ",(407) 578-9486  ,"94 N NORMANDALE AVE
+ORLANDO, FL   32835  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1014494&original_query_string=JN TRANSPORTATION,N/A
+CARRIER  ,1098672 ,ACTIVE  , ,01/17/2003 ,JOHN F COLEMAN TRUCKING , ,"7001 HIGHCORNER ROAD
+BROOKSVILLE, FL   34602  ",(352) 799-1705  ,"7001 HIGHCORNER ROAD
+BROOKSVILLE, FL   34602  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1098672&original_query_string=JOHN F COLEMAN TRUCKING,N/A
+CARRIER  ,1000514 ,ACTIVE  , ,12/08/2001 ,JOHN KAUZLARIC SEPTIC TANK PUMPING SERVICES , ,"6120 HWY G
+EAGLE RIVER, WI   54521  ", ,"6120 HWY G
+EAGLE RIVER, WI   54521  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1000514&original_query_string=JOHN KAUZLARIC SEPTIC TANK PUMPING SERVICES,N/A
+CARRIER/SHIPPER  ,733767 ,ACTIVE  ,"110,000 (2015) ",02/17/2023 ,JONES SANITATION ,JONES-EISLER SANITATION ,"18242 SCHAFER RD
+BRIGHTON, IL   62012  ",(618) 885-5539  ,"PO BOX 95
+GODFREY, IL   62035  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=733767&original_query_string=JONES SANITATION,N/A
+CARRIER/SHIPPER  ,733767 ,ACTIVE  ,"110,000 (2015) ",02/17/2023 ,JONES SANITATION ,JONES-EISLER SANITATION ,"18242 SCHAFER RD
+BRIGHTON, IL   62012  ",(618) 885-5539  ,"PO BOX 95
+GODFREY, IL   62035  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=733767&original_query_string=JONES-EISLER SANITATION,N/A
+CARRIER  ,937084 ,ACTIVE  , , ,JORGE ANTONIO LOPEZ , ,"5888 JUDD FALLS ROAD
+LAKE WORTH, FL   33463  ",(561) 434-2271  ,"5888 JUDD FALLS ROAD
+LAKE WORTH, FL   33463  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=937084&original_query_string=JORGE ANTONIO LOPEZ,N/A
+CARRIER  ,2750194 ,ACTIVE  , , ,JOSE A GUZMAN , ,"13100 S BROADWAY
+LOS ANGELES, CA   90062  ",(888) 605-9300  ,"806 E 94TH ST
+LOS ANGELES,   90002  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2750194&original_query_string=JOSE A GUZMAN,N/A
+CARRIER  ,976269 ,ACTIVE  , ,08/31/2001 ,JOSE A QUINTANA , ,"1108 NW AVE D 4
+BELLE GLADE, FL   33430-2428  ",(561) 993-0331  ,"1108 NW AVE D 4
+BELLE GLADE, FL   33430-2428  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=976269&original_query_string=JOSE A QUINTANA,N/A
+CARRIER  ,3358839 ,ACTIVE  ,"10,000 (2023) ",01/02/2024 ,JOSE ANTONIO MORA TORRES , ,"PRIV SAN MARCOS 13512 17
+TIJUANA, BN   22170  ",(664) 510-1301  ,"9765 MARCONI DR STE 105
+SAN DIEGO, CA   92154  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3358839&original_query_string=JOSE ANTONIO MORA TORRES,N/A
+CARRIER  ,1079461 ,ACTIVE  ,"1,000 (2001) ",10/07/2002 ,JOSE MANUEL PEREZ , ,"9048 NW 93RD STREET BAY 2
+MEDLEY, FL   33178-1415  ",(305) 884-4607  ,"55 EAST 13TH STREET
+HIALEAH, FL   33010-3533  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1079461&original_query_string=JOSE MANUEL PEREZ,N/A
+CARRIER  ,3232253 ,ACTIVE  , ,01/14/2019 ,JOSHUA BEAN ,JB TRUCKING AND TRANSPORT ,"9480 GARDNER ST
+BEAUMONT, TX   77707-1121  ",(409) 659-7485  ,"9480 GARDNER ST
+BEAUMONT, TX   77707-1121  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3232253&original_query_string=JOSHUA BEAN,N/A
+CARRIER  ,3301586 ,ACTIVE  , ,05/27/2020 ,JS HEART TRANSPORT , ,"19606 RICELAKE LN
+HOUSTON, TX   77084-4748  ",(281) 995-6641  ,"19606 RICELAKE LN
+HOUSTON, TX   77084-4748  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3301586&original_query_string=JS HEART TRANSPORT,N/A
+CARRIER  ,904317 ,ACTIVE  , , ,JUAN A PORTAL , ,"370 SW BUXTON AVENUE
+PORT ST LUICE, FL   34983  ",(561) 343-9255  ,"370 SW BUXTON AVENUE
+PORT ST LUICE, FL   34983  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=904317&original_query_string=JUAN A PORTAL,N/A
+CARRIER  ,877896 ,ACTIVE  , , ,JUAN C SERNA , ,"420 BLUEJACKET LANE
+ORLANDO, FL   32825  ",(407) 579-6959  ,"420 BLUEJACKET LANE
+ORLANDO, FL   32825  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=877896&original_query_string=JUAN C SERNA,N/A
+CARRIER  ,733849 ,ACTIVE  ,"2,595 (1997) ", ,JOHN M SWOPE ,K AND M CONSTRUCTION INC ,"1801 WEST 700 NORTH
+EDINBURGH, IN   46124  ",(812) 526-2459  ,"1801 WEST 700 NORTH
+EDINBURGH, IN   46124  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=733849&original_query_string=K AND M CONSTRUCTION INC,N/A
+CARRIER  ,4222639 ,ACTIVE  , ,04/09/2024 ,K TRANSPORT , ,"15226 CLEAR ST
+NOBLESVILLE, IN   46060  ",(219) 712-6503  ,"15226 CLEAR ST
+NOBLESVILLE, IN   46060-4688  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4222639&original_query_string=K TRANSPORT,N/A
+SHIPPER  ,592879 ,ACTIVE  , , ,KANSAS PLATING INC , ,"1110 N MOSLEY ST
+WICHITA, KS   67214  ",(316) 263-7853  ,"1110 N MOSLEY ST
+WICHITA, KS   67214  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=592879&original_query_string=KANSAS PLATING INC,N/A
+CARRIER  ,1221042 ,ACTIVE  ,100 (2003) ,03/10/2004 ,NOAH KEITH GILLELAND ,KEITH GILLELAND ,"4921 COUNTY RD 329
+WEDOWEE, AL   36278  ",(256) 589-1080  ,"4921 COUNTY RD 329
+WEDOWEE, AL   36278  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1221042&original_query_string=KEITH GILLELAND,N/A
+CARRIER  ,1978950 ,ACTIVE  ,"10,000 (2023) ",11/17/2024 ,KENNEDY CONSTRUCTION COMPANY , ,"201 N THIRD STREET
+GRANDVIEW, TX   76050  ",(817) 556-9421  ,"PO BOX 807
+GRANDVIEW, TX   76050  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1978950&original_query_string=KENNEDY CONSTRUCTION COMPANY,N/A
+CARRIER  ,2805789 ,ACTIVE  , , ,KENNETH SLOAN DOBBINS ,EXECUTIVE LIMOUSINE TRANSPORTATION ,"600 SOUTH JEFFERSON K
+PLACENTIA, CA   92670  ",(714) 540-9700  ,"600 SOUTH JEFFERSON K
+PLACENTIA, CA   92670  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2805789&original_query_string=KENNETH SLOAN DOBBINS,N/A
+CARRIER  ,882499 ,ACTIVE  , , ,KENTUCKIANA GUTTER EXPRESS ,K G E INC ,"213 S 1ST ST
+LAGRANGE, KY   40031  ",(502) 222-4630  ,"213 S 1ST ST
+LAGRANGE, KY   40031  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=882499&original_query_string=KENTUCKIANA GUTTER EXPRESS,N/A
+CARRIER  ,1520221 ,ACTIVE  , ,06/23/2006 ,KIMBERLY ADAMS ,KGR TRANSPORT ,"20626 GLADES CUTTOFF RD
+PORT SAINT LUCIE, FL   34987  ",(772) 318-8182  ,"20626 GLADES CUTTOFF RD
+PORT SAINT LUCIE, FL   34987  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1520221&original_query_string=KGR TRANSPORT,N/A
+CARRIER  ,4167986 ,ACTIVE  ,1 (2023) ,07/25/2024 ,KINGNORTH TRANSPORTATION INC , ,"488 BROADWAY APT 10
+LONG BRANCH, NJ   07740  ",(469) 340-6626  ,"488 BROADWAY APT 10
+LONG BRANCH, NJ   07740-5954  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4167986&original_query_string=KINGNORTH TRANSPORTATION INC,N/A
+CARRIER  ,465749 ,ACTIVE  , ,10/01/2002 ,KINSEY CRANE & SIGN CO INC , ,"2401 JOHNSON AVE NW
+ROANOKE, VA   24017  ",(703) 345-5063  ,"2401 JOHNSON AVE NW
+ROANOKE, VA   24017  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=465749&original_query_string=KINSEY CRANE & SIGN CO INC,N/A
+CARRIER  ,854251 ,ACTIVE  , , ,KIRCHMAN CORPORATION , ,"711 E ALTAMONTE DRIVE
+ALTAMONTE SPRINGS, FL   32701  ",(407) 831-3001  ,"POST OFFICE BOX 2269
+ORLANDO, FL   32802  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=854251&original_query_string=KIRCHMAN CORPORATION,N/A
+CARRIER  ,647991 ,ACTIVE  ,"2,000 () ", ,LARRY E KIRKLAND ,KIRKLAND FARMS ,"717 GRAVEL FORD RD
+RUMSEY, KY   42371  ",(502) 273-5315  ,"717 GRAVEL FORD RD
+RUMSEY, KY   42371  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=647991&original_query_string=KIRKLAND FARMS,N/A
+CARRIER  ,1643319 ,ACTIVE  ,"5,000 (2023) ",12/29/2023 ,KIRYAS JOEL GRAND FOOD MARKET INC , ,"51 FOREST ROAD #216
+MONROE, NY   10950  ",(845) 782-6166  ,"51 FOREST ROAD #216
+MONROE, NY   10950-2936  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1643319&original_query_string=KIRYAS JOEL GRAND FOOD MARKET INC,N/A
+CARRIER  ,2131846 ,ACTIVE  , ,03/18/2011 ,KLAZZIC TOUCH COMPANY LLC , ,"7235 TEN HILL
+WEST BLOOMFIELD, MI   48322  ",(248) 862-2882  ,"7235 TEN HILL
+WEST BLOOMFIELD, MI   48322  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2131846&original_query_string=KLAZZIC TOUCH COMPANY LLC,N/A
+SHIPPER  ,411783 ,ACTIVE  , , ,KNUD-HANSEN MEMORIAL HOSPITAL , ,"NUCLEAR MEDICINE DEP
+CHARLOTTE AMALIE, VI   00801  ", ,"NUCLEAR MEDICINE DEP
+CHARLOTTE AMALIE, VI   00801  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=411783&original_query_string=KNUD-HANSEN MEMORIAL HOSPITAL,N/A
+CARRIER  ,792408 ,ACTIVE  , , ,RICHARD R KRANCE ,KRANCE FARM ,"936 M ROAD
+CHAPMAN, NE   68827  ",(308) 946-3451  ,"936 M ROAD
+CHAPMAN, NE   68827  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=792408&original_query_string=KRANCE FARM,N/A
+CARRIER  ,1003227 ,ACTIVE  , ,02/06/2002 ,COLEMAN R KYLE ,KYLE R COLEMAN DUMP TRUCK SERVICE ,"390 S 200 W
+MINERSVILLE, UT   84752  ",(435) 386-1526  ,"BOX 266
+MINERSVILLE, UT   84752  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1003227&original_query_string=KYLE R COLEMAN DUMP TRUCK SERVICE,N/A
+CARRIER  ,720129 ,ACTIVE  ,"20,196 () ", ,L D THOUSAND , ,"3856 S OLD US 31
+ROCHESTER, IN   46975-8244  ",(219) 223-3363  ,"3856 S OLD US 31
+ROCHESTER, IN   46975-8244  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=720129&original_query_string=L D THOUSAND,N/A
+CARRIER  ,1273514 ,ACTIVE  ,"24,000 (2003) ",07/30/2004 ,LAKELAND PUBLISHERS ,LAKELAND MEDIA ,"30 SOUTH WHITNEY
+GRAYSLAKE, IL   60030  ",(847) 223-8161  ,"PO BOX 268
+GRAYSLAKE, IL   60030  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1273514&original_query_string=LAKELAND MEDIA,N/A
+CARRIER  ,1273514 ,ACTIVE  ,"24,000 (2003) ",07/30/2004 ,LAKELAND PUBLISHERS ,LAKELAND MEDIA ,"30 SOUTH WHITNEY
+GRAYSLAKE, IL   60030  ",(847) 223-8161  ,"PO BOX 268
+GRAYSLAKE, IL   60030  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1273514&original_query_string=LAKELAND PUBLISHERS,N/A
+CARRIER  ,1437493 ,ACTIVE  ,"10,000 (2023) ",01/14/2023 ,LANDMARK EXCAVATING & DEVELOPING LLC , ,"59 DICKERSON AVENUE
+MONTGOMERY, NY   12549  ",(845) 222-2309  ,"P O BOX 73
+THOMPSON RIDGE, NY   10985  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1437493&original_query_string=LANDMARK EXCAVATING & DEVELOPING LLC,N/A
+CARRIER  ,734300 ,ACTIVE  , , ,LANNY G MCADAMS , ,"BIG CABIN CREEK RD
+VANCEBURG, KY   41179  ",(606) 798-2394  ,"RR 2 BOX 316A
+VANCEBURG, KY   41179  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=734300&original_query_string=LANNY G MCADAMS,N/A
+CARRIER  ,647991 ,ACTIVE  ,"2,000 () ", ,LARRY E KIRKLAND ,KIRKLAND FARMS ,"717 GRAVEL FORD RD
+RUMSEY, KY   42371  ",(502) 273-5315  ,"717 GRAVEL FORD RD
+RUMSEY, KY   42371  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=647991&original_query_string=LARRY E KIRKLAND,N/A
+CARRIER  ,1928586 ,ACTIVE  ,"3,000 (2008) ",08/20/2009 ,LARRY RAZZANO LEATHER AND SCRAP , ,"318 N PERRY STREET
+JOHNSTOWN, NY   12095  ",(518) 762-9019  ,"PO BOX 532
+JOHNSTOWN, NY   12095  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1928586&original_query_string=LARRY RAZZANO LEATHER AND SCRAP,N/A
+CARRIER  ,2774656 ,ACTIVE  , , ,LAURA BANUELOS ,PINA FURNITURE ,"16766 ARROW BLVD
+FONTANA, CA   92335  ",(909) 356-2105  ,"PO BOX 4831
+FONTANA, CA   92335  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2774656&original_query_string=LAURA BANUELOS,N/A
+CARRIER  ,743803 ,ACTIVE  , ,03/05/2010 ,LAWN MAINTENANCE SERVICES CO INC , ,"3312 WAGNER ROAD
+ALLISON PARK, PA   15101  ",(412) 767-7020  ,"3312 WAGNER ROAD
+ALLISON PARK, PA   15101  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=743803&original_query_string=LAWN MAINTENANCE SERVICES CO INC,N/A
+CARRIER  ,4117170 ,ACTIVE  ,"2,000 (2023) ",05/21/2024 ,LCO TRANSPORT INC , ,"3 MICHAUD RD
+GRAND FALLS, NB   E3Z 1L5  ",(506) 479-1290  ,"3 MICHAUD RD
+GRAND FALLS, NB   E3Z 1L5  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4117170&original_query_string=LCO TRANSPORT INC,N/A
+CARRIER  ,425845 ,ACTIVE  , ,01/14/2002 ,LEROY AND NANCY COLE ,RAINBOW AMUSEMENTS ,"2322 T ST
+LINCOLN, NE   68503  ",(402) 476-2012  ,"2322 T ST
+LINCOLN, NE   68503  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=425845&original_query_string=LEROY AND NANCY COLE,N/A
+CARRIER  ,976972 ,ACTIVE  , ,09/04/2001 ,LEROY SULLIVAN JR ,SHAWN'S DUMP ,"2505 E OSBORNE
+TAMPA, FL   33610-2505  ",(813) 376-5973  ,"2505 E OSBORNE
+TAMPA, FL   33610-2505  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=976972&original_query_string=LEROY SULLIVAN JR,N/A
+CARRIER  ,1419153 ,ACTIVE  ,"15,000 (2021) ",01/27/2023 ,LESLIE LAVERNE SPECKMANN ,SPECKMANN CHOPPING ,"62595 725 RD
+ELK CREEK, NE   68348  ",(402) 335-2393  ,"62595 725 RD
+ELK CREEK, NE   68348  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1419153&original_query_string=LESLIE LAVERNE SPECKMANN,N/A
+SHIPPER  ,414666 ,ACTIVE  , , ,LIANCO CONTAINER CORP , ,"12949 ENTERPRISE WAY
+BRIDGETON, MO   63044  ", ,"12949 ENTERPRISE WAY
+BRIDGETON, MO   63044  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=414666&original_query_string=LIANCO CONTAINER CORP,N/A
+SHIPPER  ,407740 ,ACTIVE  , , ,LIEN CHEMICAL COMPANY , ,"501 W LAKE STREET
+ELMHURST, IL   60126  ",(312) 832-6500  ,"501 W LAKE STREET
+ELMHURST, IL   60126  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=407740&original_query_string=LIEN CHEMICAL COMPANY,N/A
+CARRIER  ,4296028 ,ACTIVE  , ,10/07/2024 ,LIGHT HANDS LOGISTICS LLC ,LH-TRUCKING ,"1968 W GOLDEN POND WAY
+OREM, UT   84059  ",(801) 866-6954  ,"1968 W GOLDEN POND WAY
+OREM, UT   84059-3394  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4296028&original_query_string=LIGHT HANDS LOGISTICS LLC,N/A
+SHIPPER  ,416850 ,ACTIVE  , , ,LIGHTING PLANT ,SYLTROM INC ,"URB OND MATA DE PLATANO
+LUQUILLO, PR   00673  ", ,"URB OND MATA DE PLATANO
+LUQUILLO, PR   00673  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=416850&original_query_string=LIGHTING PLANT,N/A
+SHIPPER  ,416256 ,ACTIVE  , , ,LINCOLN MANUFACTURING COMPANY INC , ,"PO BOX 1229
+FORT WAYNE, IN   46801  ",(219) 432-9511  ,"PO BOX 1229
+FORT WAYNE, IN   46801  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=416256&original_query_string=LINCOLN MANUFACTURING COMPANY INC,N/A
+CARRIER  ,1732486 ,ACTIVE  , ,01/30/2008 ,LYLE A HANDY SR , ,"ROUTE 10
+MARLOW, NH   03456  ",(603) 446-3365  ,"PO BOX 343
+MARLOW, NH   03456  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1732486&original_query_string=LYLE A HANDY SR,N/A
+CARRIER  ,3952140 ,ACTIVE  ,"120,000 (2024) ",10/11/2024 ,M & Y TRANSPORTATION LLC , ,"350 E BIRCH AVE APT 323
+BARRON, WI   54812  ",(612) 865-6471  ,"350 E BIRCH AVE APT 323
+BARRON, WI   54812  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3952140&original_query_string=M & Y TRANSPORTATION LLC,N/A
+CARRIER  ,1737643 ,ACTIVE  ,"920,000 (2022) ",01/19/2023 ,M A G B TRANSPORTATION INC , ,"206 E BROADWAY
+FAIRVIEW, OK   73737  ",(580) 227-3374  ,"PO BOX 298
+FAIRVIEW, OK   73737  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1737643&original_query_string=M A G B TRANSPORTATION INC,N/A
+CARRIER  ,2076727 ,Inactive USDOT Number per 49 CFR 390.19(b)(4); Biennial update of MCS-150 data not completed  ,"100,000 (2021) ",02/05/2022 ,MADNI TRANSPORTATION LLC , ,"200 BETTY ANN LANE
+COVINGTON, GA   30016  ",(404) 514-8042  ,"200 BETTY ANN LANE
+COVINGTON, GA   30016  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2076727&original_query_string=MADNI TRANSPORTATION LLC,N/A
+CARRIER  ,3884313 ,ACTIVE  ,1 (2021) ,05/24/2022 ,MAGNUMUSX TRANSPORTATION LLC , ,"458 W KING ST
+YORK, PA   17401  ",(717) 654-1743  ,"PO BOX 7203 2150 WHITE ST
+YORK, PA   17404-0203  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3884313&original_query_string=MAGNUMUSX TRANSPORTATION LLC,N/A
+CARRIER  ,1809758 ,ACTIVE  , ,11/05/2014 ,MAIDEN TREE COMPANY LLC ,MAIDEN TREE COMPANY ,"1765 WASHINGTON ST
+DENVER, CO   80203  ",(303) 907-8770  ,"1765 WASHINGTON ST
+DENVER, CO   80203  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1809758&original_query_string=MAIDEN TREE COMPANY,N/A
+CARRIER  ,1809758 ,ACTIVE  , ,11/05/2014 ,MAIDEN TREE COMPANY LLC ,MAIDEN TREE COMPANY ,"1765 WASHINGTON ST
+DENVER, CO   80203  ",(303) 907-8770  ,"1765 WASHINGTON ST
+DENVER, CO   80203  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1809758&original_query_string=MAIDEN TREE COMPANY LLC,N/A
+CARRIER  ,4212998 ,ACTIVE  ,1 (2023) ,05/24/2024 ,MALIK TRANSPORT LLC , ,"23928 109TH AVE SE APT 2D303
+KENT, WA   98031  ",(206) 602-0269  ,"23928 109TH AVE SE APT 2D303
+KENT, WA   98031  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4212998&original_query_string=MALIK TRANSPORT LLC,N/A
+CARRIER/BROKER  ,4218951 ,ACTIVE  , ,04/01/2024 ,MANUEL HAUL DELIVERY , ,"6414 LYNDHURST DR
+HOUSTON, TX   77087  ",(832) 217-4040  ,"6414 LYNDHURST DR
+HOUSTON, TX   77087-6338  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4218951&original_query_string=MANUEL HAUL DELIVERY,N/A
+CARRIER  ,1663187 ,ACTIVE  , ,07/05/2007 ,MAR-TON CONSTRUCTION AND REMODELING , ,"3724 S 2300 E
+SALT LAKE CITY, UT   84109  ",(801) 550-2895  ,"3724 S 2300 E
+SALT LAKE CITY, UT   84109  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1663187&original_query_string=MAR-TON CONSTRUCTION AND REMODELING,N/A
+CARRIER/SHIPPER  ,1097110 ,ACTIVE  ,"510,638 (2002) ",02/04/2003 ,RAQUEL SANTIAGO ,MARANATHA TRUCKING CORP ,"863 EVANGELINE AVENUE
+ORLANDO, FL   32809  ",(407) 826-5815  ,"863 EVANGELINE AVENUE
+ORLANDO, FL   32809  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1097110&original_query_string=MARANATHA TRUCKING CORP,N/A
+CARRIER  ,2068191 ,ACTIVE  ,"271,000 (2010) ",08/22/2010 ,MARIANA AGUERO , ,"6866 NW 173 DRIVE # 608
+MIAMI, FL   33015  ",(305) 827-0529  ,"6866 NW 173 DRIVE # 608
+MIAMI, FL   33015  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2068191&original_query_string=MARIANA AGUERO,N/A
+CARRIER  ,1525728 ,ACTIVE  ,100 (2005) ,07/05/2006 ,MARINA CASTANO ,CASTANOS TRUCKING INC ,"5302 PUTNAM CT
+TAMPA, FL   33624  ",(813) 323-8550  ,"5302 PUTNAM CT
+TAMPA, FL   33624  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1525728&original_query_string=MARINA CASTANO,N/A
+CARRIER  ,719675 ,ACTIVE  , , ,MARY JANE HANEY ,HANEY'S ,"508 E 8TH ST
+SHERIDAN, IN   46069  ",(317) 758-1810  ,"508 E 8TH ST
+SHERIDAN, IN   46069  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=719675&original_query_string=MARY JANE HANEY,N/A
+CARRIER  ,783286 ,ACTIVE  ,"2,500 (2003) ",06/28/2004 ,MATTHEWS TIMBERLAND SERVICE INC , ,"6173 RACE TRACK ROAD
+CASTALIA, NC   27816  ",(252) 459-3283  ,"PO BOX 255
+CASTALIA, NC   27816  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=783286&original_query_string=MATTHEWS TIMBERLAND SERVICE INC,N/A
+CARRIER  ,3925515 ,ACTIVE  , ,07/28/2022 ,MAX TRANSPORT EXPRESS LLC , ,"1806 PHEASANT RUN W APT C
+COLUMBUS, OH   43228  ",(614) 372-4289  ,"1806 PHEASANT RUN W APT C
+COLUMBUS, OH   43228-3451  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3925515&original_query_string=MAX TRANSPORT EXPRESS LLC,N/A
+CARRIER  ,1038978 ,ACTIVE  ,"16,000 (2001) ", ,TEXACO NATURAL GAS INC ,MAYSVILLE GAS PROCESSING PLANT ,"HWY 9 2 MILES WEST
+MAYSVILLE, OK   73057  ",(405) 527-9295  ,"PO BOX 846
+MAYSVILLE, OK   73057  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1038978&original_query_string=MAYSVILLE GAS PROCESSING PLANT,N/A
+CARRIER  ,3925475 ,ACTIVE  , ,07/28/2022 ,MCLAIN TRANSPORT LLC , ,"175 DIXON LAKE CIR
+VIDALIA, GA   30474-9490  ",(912) 326-1918  ,"175 DIXON LAKE CIR
+VIDALIA, GA   30474-9490  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3925475&original_query_string=MCLAIN TRANSPORT LLC,N/A
+CARRIER  ,1221017 ,ACTIVE  , ,03/10/2004 ,PAUL E MCLEAN ,MCLEAN TRUCKING ,"510 ROBINSON ROAD
+HARTWICK, NY   13348  ",(315) 858-2937  ,"510 ROBINSON ROAD
+HARTWICK, NY   13348  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1221017&original_query_string=MCLEAN TRUCKING,N/A
+CARRIER  ,826539 ,ACTIVE  , , ,MICHAEL J MCMILLAN ,MCMILLAN ELECTRIC INC ,"3955 W OLD HWY RD
+MORGAN, UT   84050  ",(801) 328-9919  ,"3955 W OLD HWY RD
+MORGAN, UT   84050  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=826539&original_query_string=MCMILLAN ELECTRIC INC,N/A
+CARRIER  ,881066 ,ACTIVE  ,"34,000 (1999) ", ,MCNEILL TRANSPORT INC , ,"325 SW 66TH AVENUE
+MARGATE, FL   330681552  ",(954) 974-4711  ,"POST OFFICE BOX 934785
+MARGATE, FL   330934785  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=881066&original_query_string=MCNEILL TRANSPORT INC,N/A
+CARRIER  ,2142720 ,ACTIVE  ,"2,000 (2010) ",04/14/2011 ,DERRICK WILLIAMS ,MEDSOUTH TRANSPOTATION ,"1037 TIMMONSVILLE HWY
+DARLINGTON, SC   29532  ",(843) 398-4449  ,"1136 TIMMONSVILLE HWY
+DARLINGTON, SC   29532  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2142720&original_query_string=MEDSOUTH TRANSPOTATION,N/A
+CARRIER  ,3296465 ,ACTIVE  ,"306,000 (2023) ",11/21/2023 ,BOKHARI USA INC ,METRO LIVERY TRANSPORTATION ,"1311 VULTEE BLVD
+NASHVILLE, TN   37217  ",(615) 365-3434  ,"1311 VULTEE BLVD
+NASHVILLE, TN   37217  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3296465&original_query_string=METRO LIVERY TRANSPORTATION,N/A
+CARRIER  ,1806000 ,ACTIVE  , ,08/28/2008 ,MIAMI TIRE BRAKE AND MUFFLER INC , ,"2585 CENTRAL AVE
+LAKE STATION, IN   46405  ",(219) 963-4940  ,"2585 CENTRAL AVE
+LAKE STATION, IN   46405  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1806000&original_query_string=MIAMI TIRE BRAKE AND MUFFLER INC,N/A
+CARRIER  ,1888693 ,ACTIVE  ,"34,000 (2024) ",01/14/2025 ,MICHAEL A WORKMAN ,CROSSROADS TRUCKING ,"6512 SCHOOL STREET N
+FINLAYSON, MN   55735  ",(320) 630-0713  ,"PO BOX 206
+FINLAYSON, MN   55735  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1888693&original_query_string=MICHAEL A WORKMAN,N/A
+CARRIER  ,826539 ,ACTIVE  , , ,MICHAEL J MCMILLAN ,MCMILLAN ELECTRIC INC ,"3955 W OLD HWY RD
+MORGAN, UT   84050  ",(801) 328-9919  ,"3955 W OLD HWY RD
+MORGAN, UT   84050  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=826539&original_query_string=MICHAEL J MCMILLAN,N/A
+CARRIER  ,40409 ,ACTIVE  ,"42,676 (2023) ",07/22/2024 ,MICHEL LUSSIER TRANSPORT LTEE , ,"905 1RE AVENUE
+STE-CATHERINE, PQ   J5C 1C5  ",(450) 444-8871  ,"905 1RE AVENUE
+STE-CATHERINE, PQ   J5C 1C5  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=40409&original_query_string=MICHEL LUSSIER TRANSPORT LTEE,N/A
+SHIPPER  ,1126703 ,ACTIVE  , ,05/07/2003 ,ELIO E SALVO INC ,MIRACLE SEALANTS COMPANY ,"12318 LOWER AZUSA ROAD
+ARCADIA, CA   91706-6433  ", ,"12318 LOWER AZUSA ROAD
+ARCADIA, CA   91706-6433  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1126703&original_query_string=MIRACLE SEALANTS COMPANY,N/A
+SHIPPER  ,407000 ,ACTIVE  , , ,MOGERLY-ENLOW OIL COMPANY , ,"1401 EAST BROADWAY
+ALTUS, OK   73521  ", ,"1401 EAST BROADWAY
+ALTUS, OK   73521  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=407000&original_query_string=MOGERLY-ENLOW OIL COMPANY,N/A
+CARRIER  ,2811193 ,ACTIVE  , , ,MOHAMMAD M ROSHAN ,MOHAMMED ROSHAN ,"4900 RIDGEVIEW DR
+ANTIOCH, CA   945097755  ",(925) 757-6852  ,"4900 RIDGEVIEW DR
+ANTIOCH, CA   945097755  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2811193&original_query_string=MOHAMMAD M ROSHAN,N/A
+CARRIER  ,2811193 ,ACTIVE  , , ,MOHAMMAD M ROSHAN ,MOHAMMED ROSHAN ,"4900 RIDGEVIEW DR
+ANTIOCH, CA   945097755  ",(925) 757-6852  ,"4900 RIDGEVIEW DR
+ANTIOCH, CA   945097755  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2811193&original_query_string=MOHAMMED ROSHAN,N/A
+CARRIER  ,1442294 ,ACTIVE  , ,09/27/2005 ,MOLDENHAUER LANDSCAPE & DESIGN INC , ,"W366 S 2431 HILL POND RD
+DOUSMAN, WI   53118  ",(262) 965-3613  ,"W366 S 2431 HILL POND RD
+DOUSMAN, WI   53118  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1442294&original_query_string=MOLDENHAUER LANDSCAPE & DESIGN INC,N/A
+CARRIER  ,1643784 ,ACTIVE  ,"14,500 (2016) ",10/18/2017 ,MOORE AND PORTER PRODUCE OF THOMASVILLE INC , ,"502 SMITH AVE STALL 44
+THOMASVILLE, GA   31792  ",(229) 226-1737  ,"502 SMITH AVE STALL 44
+THOMASVILLE, GA   31792  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1643784&original_query_string=MOORE AND PORTER PRODUCE OF THOMASVILLE INC,N/A
+CARRIER  ,2251502 ,ACTIVE  ,"50,000 (2010) ",01/14/2016 ,GREGORY EVANS MOORE ,MOORE LOCKDOWN AND MAINTENANCE ,"1611 MAIN ST
+SNOVER, MI   48472  ",(810) 672-9649  ,"1611 MAIN ST
+SNOVER, MI   48472  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2251502&original_query_string=MOORE LOCKDOWN AND MAINTENANCE,N/A
+CARRIER  ,2529686 ,ACTIVE  ,"165,638 (2023) ",09/04/2024 ,MORENOS TRANSPORTATION SERVICES LLC , ,"2909 W BELMONT AVE
+PHOENIX, AZ   85051  ",(602) 487-2603  ,"2909 W BELMONT AVE
+PHOENIX, AZ   85051  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2529686&original_query_string=MORENOS TRANSPORTATION SERVICES LLC,N/A
+CARRIER  ,1657666 ,ACTIVE  , ,06/19/2007 ,MR AND TS EXACAVATING LLC , ,"1709 S RILEY HIGHWAY
+SHELBYVILLE, IN   46176  ",(317) 392-3979  ,"1709 S RILEY HIGHWAY
+SHELBYVILLE, IN   46176  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1657666&original_query_string=MR AND TS EXACAVATING LLC,N/A
+CARRIER  ,3947576 ,ACTIVE  ,"81,000 (2024) ",11/17/2024 ,MSH TRANSPORT LLC , ,"1417 CLEMENTE WAY
+MURFREESBORO, TN   37129  ",(615) 308-2642  ,"1417 CLEMENTE WAY
+MURFREESBORO, TN   37129-8523  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3947576&original_query_string=MSH TRANSPORT LLC,N/A
+CARRIER  ,2563787 ,Inactive USDOT Number per 49 CFR 390.19(b)(4); Biennial update of MCS-150 data not completed  ,"49,000 (2021) ",07/25/2022 ,NAJIB TRANSPORT LLC , ,"1021 ENGLEWOOD AVE
+ST PAUL, MN   55104  ",(651) 373-6265  ,"1021 ENGLEWOOD AVE
+ST PAUL, MN   55104  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2563787&original_query_string=NAJIB TRANSPORT LLC,N/A
+CARRIER  ,657857 ,ACTIVE  , , ,NATURE TREE COMPANY , ,"506 SCHOOL ST
+DAWSON SPRINGS, KY   42408  ", ,"506 SCHOOL ST
+DAWSON SPRINGS, KY   42408  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=657857&original_query_string=NATURE TREE COMPANY,N/A
+SHIPPER  ,425190 ,ACTIVE  , , ,NELSON PAINT COMPANY , ,"ONE NELSON DR
+KINGSFORD, MI   49801  ",(906) 774-5566  ,"PO BOX 2040
+KINGSFORD, MI   49801-4561  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=425190&original_query_string=NELSON PAINT COMPANY,N/A
+CARRIER  ,1250403 ,ACTIVE  ,"57,549 (2023) ",02/07/2024 ,NGHIA VAN DANG ,VK SPEEDY ,"13281 CHESTNUT ST
+WESTMINSTER, CA   92683  ",(714) 725-0275  ,"13281 CHESTNUT ST
+WESTMINSTER, CA   92683  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1250403&original_query_string=NGHIA VAN DANG,N/A
+CARRIER  ,1221042 ,ACTIVE  ,100 (2003) ,03/10/2004 ,NOAH KEITH GILLELAND ,KEITH GILLELAND ,"4921 COUNTY RD 329
+WEDOWEE, AL   36278  ",(256) 589-1080  ,"4921 COUNTY RD 329
+WEDOWEE, AL   36278  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1221042&original_query_string=NOAH KEITH GILLELAND,N/A
+CARRIER  ,556012 ,ACTIVE  ,"140,000 (2002) ",02/25/2003 ,NORMAN D CLARK ,CLARK ENTERPRISES ,"21856 SPRUCE CRESCENT
+WATERTOWN, NY   13601  ",(315) 788-1257  ,"21856 SPRUCE CRESCENT
+WATERTOWN, NY   13601  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=556012&original_query_string=NORMAN D CLARK,N/A
+CARRIER  ,766921 ,ACTIVE  ,"50,000 (1997) ", ,NORMAN H HERMANN ,TJ TRUCKING ,"N5835 MOORE ROAD
+SEYMOUR, WI   54165  ",(920) 833-7984  ,"N5835 MOORE ROAD
+SEYMOUR, WI   54165  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=766921&original_query_string=NORMAN H HERMANN,N/A
+CARRIER  ,1818504 ,ACTIVE  ,"1,000 (2007) ",10/07/2008 ,NYMAN CONTRACTING LLC , ,"43343 DEQUINDRE
+TROY, MI   48085  ",(248) 828-3460  ,"43343 DEQUINDRE
+TROY, MI   48085  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1818504&original_query_string=NYMAN CONTRACTING LLC,N/A
+CARRIER  ,1028812 ,ACTIVE  , ,05/15/2002 ,BARRY MERRIAM ,OASIS LANDSCAPE CURBING ,"13852 S WASATCH VISTA DR
+BLUFFDALE, UT   84088  ",(801) 253-7216  ,"13852 S WASATCH VISTA DR
+BLUFFDALE, UT   84088  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1028812&original_query_string=OASIS LANDSCAPE CURBING,N/A
+CARRIER  ,1295822 ,ACTIVE  ,"250,000 (2023) ",02/03/2024 ,OCEAN GROUP INC ,OCEAN FRESH FISH & SEAFOOD MARKETING CO ,"1100 SOUTH SANTA FE AVE
+LOS ANGELES, CA   90021  ",(213) 622-3677  ,"1100 SOUTH SANTA FE AVE
+LOS ANGELES, CA   90021  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1295822&original_query_string=OCEAN GROUP INC,N/A
+CARRIER  ,3160406 ,ACTIVE  ,1 (2023) ,03/28/2024 ,ON ONE TRANSPORTING LLC , ,"948 COLLEEN DR
+NEWPORT NEWS, VA   23608  ",(757) 775-8291  ,"948 COLLEEN DR
+NEWPORT NEWS, VA   23608  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3160406&original_query_string=ON ONE TRANSPORTING LLC,N/A
+CARRIER  ,3246422 ,ACTIVE  ,"80,000 (2021) ",06/20/2022 ,MICHAEL STEVE ORTIZ ,ORANGE STATION TRANSPORT ,"724 CHENIN BLANC CT
+LOS BANOS, CA   93635  ",(707) 294-3110  ,"724 CHENIN BLANC CT
+LOS BANOS, CA   93635  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3246422&original_query_string=ORANGE STATION TRANSPORT,N/A
+CARRIER  ,3128443 ,ACTIVE  ,"60,000 (2023) ",04/09/2024 ,OSHO TRANSPORTATION LLC , ,"16326 SUMMER DEW LANE
+HOUSTON, TX   77095  ",(908) 510-2596  ,"16326 SUMMER DEW LANE
+HOUSTON, TX   77095  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3128443&original_query_string=OSHO TRANSPORTATION LLC,N/A
+CARRIER  ,1848674 ,ACTIVE  ,100 (2014) ,01/13/2016 ,OSMAN FLORES ,OZY TRANSPORTATION ,"1644 E US HWY 66 LOT 0
+EL RENO, OK   73036  ",(405) 999-8013  ,"P O BOX 943
+EL RENO, OK   73036-0943  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1848674&original_query_string=OSMAN FLORES,N/A
+CARRIER  ,3122623 ,ACTIVE  ,"164,654 (2021) ",03/18/2024 ,OSWAL TRANSPORT LLC , ,"2341 CEBU COURT
+PLACENTIA, CA   92870  ",(714) 351-0240  ,"2341 CEBU COURT
+PLACENTIA, CA   92870  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3122623&original_query_string=OSWAL TRANSPORT LLC,N/A
+CARRIER  ,1848674 ,ACTIVE  ,100 (2014) ,01/13/2016 ,OSMAN FLORES ,OZY TRANSPORTATION ,"1644 E US HWY 66 LOT 0
+EL RENO, OK   73036  ",(405) 999-8013  ,"P O BOX 943
+EL RENO, OK   73036-0943  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1848674&original_query_string=OZY TRANSPORTATION,N/A
+CARRIER  ,1677604 ,ACTIVE  ,"100,000 (2022) ",12/29/2023 ,PACIFIC CONTAINER CORP ,PACIFIC BOX COMPANY ,"4101 S 56TH ST
+TACOMA, WA   98409  ",(253) 473-0330  ,"4101 S 56TH ST
+TACOMA, WA   98409  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1677604&original_query_string=PACIFIC BOX COMPANY,N/A
+CARRIER  ,80369 ,ACTIVE  , ,08/27/2002 ,PACIFIC PIPE COMPANY INC , ,"2000 MANDELA PKWY
+OAKLAND, CA   94607-1629  ",(415) 452-0122  ,"P O BOX 23711
+OAKLAND, CA   94623-0711  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=80369&original_query_string=PACIFIC PIPE COMPANY INC,N/A
+CARRIER  ,2581805 ,ACTIVE  ,"6,000 (2014) ",02/26/2015 ,PALAT LANDSCAPING INC , ,"812 HACKBERRY DR
+MONROEVILLE, PA   15146  ",(860) 815-0728  ,"812 HACKBERRY DR
+MONROEVILLE, PA   15146  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2581805&original_query_string=PALAT LANDSCAPING INC,N/A
+SHIPPER  ,194898 ,ACTIVE  , , ,PANEL PROCESSING INC , ,"120 INDUSTRIAL HWY
+ALPENA, MI   49707-8153  ",(517) 356-9007  ,"P O BOX 457
+ALPENA, MI   49707-0457  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=194898&original_query_string=PANEL PROCESSING INC,N/A
+CARRIER  ,583299 ,ACTIVE  ,"6,000 (2004) ",09/14/2004 ,FIRST ASSEMBLY OF GOD ,PARKWAY CHRISTIAN CENTER ,"229 NE BEACON DRIVE
+GRANTS PASS, OR   97526  ",(541) 479-2639  ,"229 NE BEACON DRIVE
+GRANTS PASS, OR   97526  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=583299&original_query_string=PARKWAY CHRISTIAN CENTER,N/A
+CARRIER  ,2504481 ,ACTIVE  ,"10,000 (2023) ",02/09/2024 ,PARRAVANO ENTERPRISES LTD , ,"12936 WEST SPRAGUE ROAD
+PARMA, OH   44130  ",(216) 409-0580  ,"12936 WEST SPRAGUE ROAD
+PARMA, OH   44130  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2504481&original_query_string=PARRAVANO ENTERPRISES LTD,N/A
+CARRIER  ,1221017 ,ACTIVE  , ,03/10/2004 ,PAUL E MCLEAN ,MCLEAN TRUCKING ,"510 ROBINSON ROAD
+HARTWICK, NY   13348  ",(315) 858-2937  ,"510 ROBINSON ROAD
+HARTWICK, NY   13348  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1221017&original_query_string=PAUL E MCLEAN,N/A
+CARRIER  ,898907 ,ACTIVE  ,"60,000 (1999) ", ,PAULMAN TRUCKING LLC , ,"2860 COUNTY HIGHWAY V
+DE FOREST, WI   53532  ",(608) 846-4192  ,"2860 COUNTY HIGHWAY V
+DE FOREST, WI   53532  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=898907&original_query_string=PAULMAN TRUCKING LLC,N/A
+CARRIER  ,1606079 ,ACTIVE  ,"50,000 (2006) ",12/29/2023 ,PAYNE ROLAND LYN ,R LYN PAYNE HAULING ,"5614 BAKER AVE NW
+BUFFALO, MN   55313  ",(612) 437-0106  ,"5614 BAKER AVE NW
+BUFFALO, MN   55313  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1606079&original_query_string=PAYNE ROLAND LYN,N/A
+CARRIER  ,2606881 ,ACTIVE  , , ,"PC DESIGNS PATIO & RATTAN, INC ", ,"1040 LOS VALLECITOS BLVD STE 105
+VISTA, CA   920698007  ",(760) 511-9142  ,"1040 LOS VALLECITOS BLVD STE 105
+VISTA, CA   920698007  ","https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2606881&original_query_string=PC DESIGNS PATIO & RATTAN, INC",N/A
+CARRIER  ,3492842 ,ACTIVE  , ,09/23/2020 ,ANGELA CARTER ,PEACH STATE TRANSPATION ,"718 BEALE ST
+AMERICUS, GA   31709-3927  ",(229) 942-3884  ,"718 BEALE ST
+AMERICUS, GA   31709-3927  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3492842&original_query_string=PEACH STATE TRANSPATION,N/A
+CARRIER  ,3849392 ,ACTIVE  ,"60,000 (2022) ",05/15/2024 ,PEPE JEANS TRUCKING CORP , ,"7312 SW 132ND PL
+MIAMI, FL   33183  ",(786) 569-1889  ,"7312 SW 132ND PL
+MIAMI, FL   33183-3228  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3849392&original_query_string=PEPE JEANS TRUCKING CORP,N/A
+BROKER  ,2238616 ,ACTIVE  , , ,PEPSI LOGISTICS COMPANY INC , ,"7701 LEGACY DRIVE
+PLANO, TX   75024  ",(888) 752-4669  ,"7701 LEGACY DRIVE
+PLANO, TX   75024  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2238616&original_query_string=PEPSI LOGISTICS COMPANY INC,N/A
+CARRIER  ,1018940 ,ACTIVE  ,"10,000 (2001) ",11/26/2001 ,PFAFF SOD AND LANDSCAPING INC , ,"W204 N10616 HILLTOP DRIVE
+GERMANTOWN, WI   53022  ",(262) 255-1185  ,"W204 N10616 HILLTOP DRIVE
+GERMANTOWN, WI   53022  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1018940&original_query_string=PFAFF SOD AND LANDSCAPING INC,N/A
+CARRIER  ,4129247 ,ACTIVE  ,1 (2023) ,09/22/2023 ,PHARAOH ROYAL TRANSPORT LLC , ,"542 NEW HORIZONS LOOP
+AUBURNDALE, FL   33823  ",(727) 870-0366  ,"470 CITI CTR ST PMB 1254
+WINTER HAVEN, FL   33880-3425  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4129247&original_query_string=PHARAOH ROYAL TRANSPORT LLC,N/A
+CARRIER  ,503190 ,ACTIVE  ,"27,854 (2006) ",01/04/2007 ,PHILIP J CASTELLANO ,CASTELLANO TRUCKING ,"1101 CATAMANT ROAD
+PITTSFIELD, NH   03263  ",(603) 435-6507  ,"1101 CATAMANT ROAD
+PITTSFIELD, NH   03263  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=503190&original_query_string=PHILIP J CASTELLANO,N/A
+CARRIER  ,2921339 ,ACTIVE  ,"15,000 (2024) ",01/02/2025 ,PHILIP J NESTANDE ,GOT DIRT ,"67632 440TH ST
+FAIRFAX, MN   55332-3020  ",(507) 430-1318  ,"67632 440TH ST
+FAIRFAX, MN   55332-3020  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2921339&original_query_string=PHILIP J NESTANDE,N/A
+CARRIER  ,742653 ,ACTIVE  ,"17,000 (2022) ",01/09/2023 ,PHILLIP BLAND UPTON ,UPTON HAULING ,"44 YOUNG ROAD
+BOYDTON, VA   23917-1949  ",(434) 917-5562  ,"44 YOUNG ROAD
+BOYDTON, VA   23917  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=742653&original_query_string=PHILLIP BLAND UPTON,N/A
+CARRIER  ,1653743 ,ACTIVE  , ,06/08/2007 ,PIT STOP SANITATION LLC , ,"6204 JUEL GILL ROAD
+MYAKKA CITY, FL   34251  ",(941) 322-6363  ,"PO BOX 219
+MYAKKA CITY, FL   34251  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1653743&original_query_string=PIT STOP SANITATION LLC,N/A
+CARRIER  ,3886213 ,ACTIVE  ,1 (2021) ,06/01/2022 ,PITTMAN'S TRANSPORT LLC , ,"4688 BOWMAN BRANCH HWY
+BRANCHVILLE, SC   29432  ",(803) 614-8538  ,"4688 BOWMAN BRANCH HWY
+BRANCHVILLE, SC   29432  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3886213&original_query_string=PITTMAN'S TRANSPORT LLC,N/A
+CARRIER  ,3539096 ,ACTIVE  ,"61,000 (2022) ",12/20/2022 ,PITTS DYNASTY TRANSPORT LLC , ,"544 GONZAGA CIR
+HAMPTON, GA   30228  ",(678) 596-6263  ,"544 GONZAGA CIR
+HAMPTON, GA   30228-5963  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3539096&original_query_string=PITTS DYNASTY TRANSPORT LLC,N/A
+CARRIER  ,837639 ,ACTIVE  ,"30,000 (1998) ", ,PJS OF LAKELAND INC , ,"4710 NEW TAMPA HWY
+LAKELAND, FL   338151483  ",(863) 686-1483  ,"4710 NEW TAMPA HWY
+LAKELAND, FL   338151483  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=837639&original_query_string=PJS OF LAKELAND INC,N/A
+CARRIER  ,2317042 ,ACTIVE  ,"692,700 (2022) ",08/21/2023 ,PLAN B TRUCKING COMPANY INC , ,"4359 NC 41 S
+WALLACE, NC   28466  ",(844) 884-9770  ,"416 ISLAND CREEK RD
+WALLACE, NC   28466  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2317042&original_query_string=PLAN B TRUCKING COMPANY INC,N/A
+SHIPPER  ,416191 ,ACTIVE  , , ,POOL MANAGEMENT SERVICES INC , ,"P O BOX 2307 GLENBROOK STA
+STAMFORD, CT   06906  ", ,"P O BOX 2307 GLENBROOK STA
+STAMFORD, CT   06906  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=416191&original_query_string=POOL MANAGEMENT SERVICES INC,N/A
+CARRIER  ,2606931 ,ACTIVE  , , ,PRICHA LIEWSUWANPHONG , ,"690 PORTERFIELD DR
+SAN JACINTO, CA   92582  ",(951) 880-8003  ,"690 PORTERFIELD DR
+SAN JACINTO, CA   92582  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2606931&original_query_string=PRICHA LIEWSUWANPHONG,N/A
+CARRIER  ,1671446 ,ACTIVE  , ,07/30/2007 ,PRO PROPERTY MAINTENANCE , ,"3196 LAKESHORE ROAD
+BLASDELL, NY   14219  ",(716) 510-8923  ,"3196 LAKESHORE ROAD
+BLASDELL, NY   14219  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1671446&original_query_string=PRO PROPERTY MAINTENANCE,N/A
+CARRIER  ,780832 ,ACTIVE  , ,02/02/2001 ,PROFESSIONAL TANK SERVICES , ,"84 NORTH STACY LANE
+IRVINE, KY   40336  ",(606) 726-9448  ,"PO BOX 300
+IRVINE, KY   40336  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=780832&original_query_string=PROFESSIONAL TANK SERVICES,N/A
+CARRIER  ,3511887 ,ACTIVE  ,"869,505 (2024) ",06/03/2024 ,PSR TRANSPORT LLC , ,"30240 SAN DIEGO DR
+CATHEDRAL CTY, CA   92234  ",(760) 409-1567  ,"30240 SAN DIEGO DR
+CATHEDRAL CTY, CA   92234-5028  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3511887&original_query_string=PSR TRANSPORT LLC,N/A
+CARRIER  ,3084211 ,ACTIVE  , ,04/26/2023 ,BARTLEY PUMP PM LLC ,PUMPMAN NORCAL ,"4000 S MOORLAND AVE
+SANTA ROSA, CA   95407-8110  ",(707) 584-9191  ,"4000 S MOORLAND AVE
+SANTA ROSA, CA   95407-8110  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3084211&original_query_string=PUMPMAN NORCAL,N/A
+CARRIER  ,3794944 ,ACTIVE  ,"206,227 (2022) ",12/06/2023 ,PY TRANSPORT LLC , ,"14346 W KEARNEY BLVD
+KERMAN, CA   93630  ",(443) 500-1301  ,"14346 W KEARNEY BLVD
+KERMAN, CA   93630-9203  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3794944&original_query_string=PY TRANSPORT LLC,N/A
+CARRIER  ,2280910 ,ACTIVE  ,"10,000 (2013) ",09/27/2014 ,QC BINDERY AND MAILING , ,"1225 KENNESTONE CIRCLE
+MARIETTA, GA   30066  ",(678) 355-6770  ,"1225 KENNESTONE CIRCLE STE 140
+MARIETTA, GA   30066  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2280910&original_query_string=QC BINDERY AND MAILING,N/A
+CARRIER  ,1257582 ,ACTIVE  , ,06/11/2004 ,ROBERT J HOAGLAND ,R AND R TREE SERVICE ,"1627 S 300 E
+PERU, IN   46970  ",(765) 473-6918  ,"1627 S 300 E
+PERU, IN   46970  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1257582&original_query_string=R AND R TREE SERVICE,N/A
+CARRIER  ,253478 ,ACTIVE  ,"409,000 (2010) ",11/03/2010 ,R NERSESIAN TRUCKING INC , ,"112 SOUTH COUNTRY RD SUITE 206
+BELLPORT, NY   11713  ",(631) 286-9018  ,"112 SOUTH COUNTRY RD SUITE 206
+BELLPORT, NY   11713  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=253478&original_query_string=R NERSESIAN TRUCKING INC,N/A
+CARRIER  ,2734218 ,ACTIVE  , , ,RAIMOUND KHANLARI , ,"200 E CHESTNUT APT A
+GLENDALE, CA   91205  ",(818) 326-2624  ,"200 E CHESTNUT APT A
+GLENDALE, CA   91205  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2734218&original_query_string=RAIMOUND KHANLARI,N/A
+CARRIER  ,864826 ,ACTIVE  , , ,RAINBOW FARM SERVICES INC ,RAINBOW LANDSCAPING INC ,"17564 NORTH STATE ROAD 7
+BOCA RATON, FL   33498  ",(561) 482-1401  ,"17564 NORTH STATE ROAD 7
+BOCA RATON, FL   33498  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=864826&original_query_string=RAINBOW LANDSCAPING INC,N/A
+CARRIER  ,745998 ,ACTIVE  , , ,RANDALL DEANE LUNSFORD & DONNA MAE LUNSFORD ,STAYTON MILL CITY & SILVERTON SEPTIC SERVICES ,"1151 S WATER ST
+SILVERTON, OR   97381  ",(503) 874-1015  ,"1151 S WATER ST
+SILVERTON, OR   97381  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=745998&original_query_string=RANDALL DEANE LUNSFORD & DONNA MAE LUNSFORD,N/A
+CARRIER  ,795956 ,ACTIVE  ,500 (2006) ,03/02/2007 ,RANDY JAMES ,JAMES EXCAVATING ,"233 MAPLE ROAD
+NEW HOPE, AL   35760  ",(256) 723-2229  ,"233 MAPLE ROAD
+NEW HOPE, AL   35760  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=795956&original_query_string=RANDY JAMES,N/A
+CARRIER  ,1646630 ,ACTIVE  , ,05/19/2007 ,RUDRUNATH RAMKUMAR ,RANDY'S TOWING SERVICES LLC ,"1919 PARADISE DR
+KISSIMMEE, FL   34741  ",(407) 433-4420  ,"1919 PARADISE DR
+KISSIMMEE, FL   34741  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1646630&original_query_string=RANDY'S TOWING SERVICES LLC,N/A
+CARRIER  ,754898 ,ACTIVE  ,"110,000 (2023) ",05/14/2024 ,RANGER MATERIALS CORP ,RANGER MATERIALS CORPORATION ,"310 ARGONNE RD
+WARSAW, IN   46580  ",(574) 267-2422  ,"310 ARGONNE RD
+WARSAW, IN   46580  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=754898&original_query_string=RANGER MATERIALS CORP,N/A
+CARRIER  ,754898 ,ACTIVE  ,"110,000 (2023) ",05/14/2024 ,RANGER MATERIALS CORP ,RANGER MATERIALS CORPORATION ,"310 ARGONNE RD
+WARSAW, IN   46580  ",(574) 267-2422  ,"310 ARGONNE RD
+WARSAW, IN   46580  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=754898&original_query_string=RANGER MATERIALS CORPORATION,N/A
+CARRIER/SHIPPER  ,1097110 ,ACTIVE  ,"510,638 (2002) ",02/04/2003 ,RAQUEL SANTIAGO ,MARANATHA TRUCKING CORP ,"863 EVANGELINE AVENUE
+ORLANDO, FL   32809  ",(407) 826-5815  ,"863 EVANGELINE AVENUE
+ORLANDO, FL   32809  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1097110&original_query_string=RAQUEL SANTIAGO,N/A
+CARRIER  ,2190771 ,ACTIVE  ,"1,000 (2022) ",02/17/2023 ,REAGAN D YOUNGBLOOD , ,"2542 HENDERSONVILLE RD
+ARDEN, NC   28704  ",(828) 808-2050  ,"PO BOX 982
+ARDEN, NC   28704  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2190771&original_query_string=REAGAN D YOUNGBLOOD,N/A
+CARRIER/SHIPPER  ,2840667 ,ACTIVE  ,"7,500 (2022) ",02/17/2023 ,REAR VIEW TRANSPORT LLC , ,"9504 N 5000 E RD
+MANTENO, IL   60950-3555  ",(815) 545-5848  ,"9504 N 5000 E RD
+MANTENO, IL   60950-3555  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2840667&original_query_string=REAR VIEW TRANSPORT LLC,N/A
+CARRIER  ,896747 ,ACTIVE  , , ,RICHARD L STRANGE , ,"90 WEST 200 SOUTH
+SPANISH FORK, UT   84660  ",(435) 798-6048  ,"90 WEST 200 SOUTH
+SPANISH FORK, UT   84660  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=896747&original_query_string=RICHARD L STRANGE,N/A
+CARRIER  ,792408 ,ACTIVE  , , ,RICHARD R KRANCE ,KRANCE FARM ,"936 M ROAD
+CHAPMAN, NE   68827  ",(308) 946-3451  ,"936 M ROAD
+CHAPMAN, NE   68827  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=792408&original_query_string=RICHARD R KRANCE,N/A
+CARRIER  ,1257582 ,ACTIVE  , ,06/11/2004 ,ROBERT J HOAGLAND ,R AND R TREE SERVICE ,"1627 S 300 E
+PERU, IN   46970  ",(765) 473-6918  ,"1627 S 300 E
+PERU, IN   46970  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1257582&original_query_string=ROBERT J HOAGLAND,N/A
+CARRIER  ,340776 ,ACTIVE  ,"2,650 (2002) ",06/09/2003 ,ROBERT VANDENBOS , ,"1526 VALE VIEW RD
+VALE, OR   97918  ",(503) 473-2584  ,"1526 VALE VIEW RD
+VALE, OR   97918  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=340776&original_query_string=ROBERT VANDENBOS,N/A
+CARRIER  ,2606861 ,ACTIVE  , , ,ROBERTO BOLANOS , ,"14944 SHERMAN WAY B101
+VAN NUYS, CA   91405  ",(310) 940-1469  ,"14944 SHERMAN WAY B101
+VAN NUYS, CA   91405  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2606861&original_query_string=ROBERTO BOLANOS,N/A
+SHIPPER  ,529489 ,ACTIVE  , , ,ROCK SPRINGS FORD NISSAN , ,"88 CENTER
+ROCK SPRINGS, WY   82902  ",(307) 382-6500  ,"P O BOX 1568
+ROCK SPRINGS, WY   82902  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=529489&original_query_string=ROCK SPRINGS FORD NISSAN,N/A
+CARRIER  ,2852695 ,ACTIVE  , , ,ROCKLAND GROUP INC , ,"10665 RUSH ST
+SOUTH EL MONTE, CA   91733  ",(626) 575-8989  ,"10665 RUSH ST
+SOUTH EL MONTE, CA   91733  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2852695&original_query_string=ROCKLAND GROUP INC,N/A
+CARRIER  ,2811441 ,ACTIVE  , , ,ROGELIO BOLANOS , ,"2427 S PAGE AVE
+FRESNO, CA   93725  ",(559) 497-8026  ,"2427 S PAGE AVE
+FRESNO, CA   93725  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2811441&original_query_string=ROGELIO BOLANOS,N/A
+CARRIER  ,777637 ,ACTIVE  , , ,ROLAND DAMMANN ,DAMMANN FARMS ,"129 ORMSBY ROAD
+ST LIBORY, NE   68872  ",(308) 687-6345  ,"129 ORMSBY ROAD
+ST LIBORY, NE   68872  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=777637&original_query_string=ROLAND DAMMANN,N/A
+CARRIER  ,2748947 ,ACTIVE  , , ,ROLAND J STUMON ,ROLAND J. STUMON TRKG. ,"5447 NORWALK BLVD APT. 12-A
+WHITTIER, CA   90606  ",(562) 695-1168  ,"5447 NORWALK BLVD APT. 12-A
+WHITTIER, CA   90606  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2748947&original_query_string=ROLAND J STUMON,N/A
+CARRIER  ,2748947 ,ACTIVE  , , ,ROLAND J STUMON ,ROLAND J. STUMON TRKG. ,"5447 NORWALK BLVD APT. 12-A
+WHITTIER, CA   90606  ",(562) 695-1168  ,"5447 NORWALK BLVD APT. 12-A
+WHITTIER, CA   90606  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2748947&original_query_string=ROLAND J. STUMON TRKG.,N/A
+CARRIER  ,1006795 ,ACTIVE  , ,01/09/2001 ,ROLAND W BLOCK , ,"RT 1 BOX 25
+MELLEN, WI   54546  ", ,"RT 1 BOX 25
+MELLEN, WI   54546  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1006795&original_query_string=ROLAND W BLOCK,N/A
+CARRIER  ,1790344 ,ACTIVE  , ,07/09/2008 ,RONNIE HANSON ,PROFESSIONAL LAWNS ,"7995 FAIRFAX RD
+BLOOMINGTON, IN   47401  ",(812) 327-8315  ,"7995 FAIRFAX RD
+BLOOMINGTON, IN   47401  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1790344&original_query_string=RONNIE HANSON,N/A
+CARRIER  ,767058 ,ACTIVE  , , ,ROY W HAUPTMAN , ,"RR 1 BOX 165A
+NEBRASKA CITY, NE   68410  ",(402) 873-6191  ,"RR 1 BOX 165A
+NEBRASKA CITY, NE   68410  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=767058&original_query_string=ROY W HAUPTMAN,N/A
+CARRIER  ,688356 ,ACTIVE  ,"45,000 (2023) ",02/15/2024 ,RUBEN AND ROLAND AGUIRRE & ALL PARTNERS ,RIO TRAILER SHOP ,"807 VETERANS BLVD REAR
+DEL RIO, TX   78840  ",(830) 775-5533  ,"807 VETERANS BLVD REAR
+DEL RIO, TX   78840  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=688356&original_query_string=RUBEN AND ROLAND AGUIRRE & ALL PARTNERS,N/A
+CARRIER  ,2353050 ,ACTIVE  ,"45,000 (2023) ",11/17/2024 ,RYAN MAPSTON ,MAPSTON TRUCKING ,"721 WILLOW CREEK RD
+BELT, MT   59412  ",(406) 868-2295  ,"755 WILLOW CREEK RD
+BELT, MT   59412  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2353050&original_query_string=RYAN MAPSTON,N/A
+CARRIER  ,1156545 ,ACTIVE  , ,08/01/2003 ,RYAN OMARRO , ,"5000 S PINE RD
+RHINELANDER, WI   54501  ",(715) 362-2736  ,"5000 S PINE RD
+RHINELANDER, WI   54501  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1156545&original_query_string=RYAN OMARRO,N/A
+CARRIER  ,3382467 ,ACTIVE  ,"62,000 (2023) ",02/12/2024 ,WARREN DAVIS ,S & D TRANSPORT ,"10301 CARDALE ST SW
+BEACH CITY, OH   44608  ",(330) 756-2085  ,"10301 CARDALE ST SW
+BEACH CITY, OH   44608  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3382467&original_query_string=S & D TRANSPORT,N/A
+CARRIER  ,1477332 ,ACTIVE  , ,03/12/2006 ,S & D TRANSPORT INC , ,"10950 NORTH WALLACE LANE
+TREMONTON, UT   84337  ",(435) 512-9806  ,"10950 NORTH WALLACE LANE
+TREMONTON, UT   84337  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1477332&original_query_string=S & D TRANSPORT INC,N/A
+CARRIER/CARGO TANK  ,325340 ,ACTIVE  ,"244,660 (2023) ",10/07/2024 ,S & F TRUCKING COMPANY , ,"1445 MONMOUTH BLVD
+GALESBURG, IL   61401  ",(309) 343-1606  ,"1445 MONMOUTH BLVD
+GALESBURG, IL   61401  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=325340&original_query_string=S & F TRUCKING COMPANY,N/A
+CARRIER  ,2896433 ,ACTIVE  ,"80,673 (2022) ",01/16/2023 ,S&G TRANS LLC , ,"227 S WALNUT AVE
+KERMAN, CA   93630  ",(559) 458-3150  ,"227 S WALNUT AVE
+KERMAN, CA   93630-1376  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2896433&original_query_string=S&G TRANS LLC,N/A
+CARRIER  ,2120488 ,ACTIVE  ,"86,400 (2023) ",11/17/2024 ,SAMTOSH TRANSPORTATION LLC , ,"58 OREAD ST APT 3
+WORCESTER, MA   01608  ",(774) 253-3194  ,"58 OREAD ST APT 3
+WORCESTER, MA   01608  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2120488&original_query_string=SAMTOSH TRANSPORTATION LLC,N/A
+CARRIER  ,1759006 ,ACTIVE  ,"5,000 (2007) ",04/09/2008 ,CLARK ENTERPRISES OF MIDLAND INC ,SANDY RIDGE GOLF COURSE ,"2750 W LAURIA RD
+MIDLAND, MI   48642  ",(989) 631-6010  ,"PO BOX 2121
+MIDLAND, MI   48641  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1759006&original_query_string=SANDY RIDGE GOLF COURSE,N/A
+CARRIER  ,2734204 ,ACTIVE  , , ,SAUL O HERNANDEZ , ,"3929 E 1ST STREET APT 3202
+LOS ANGELES, CA   90063  ",(818) 588-2840  ,"3929 E 1ST STREET APT 3202
+LOS ANGELES, CA   90063  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2734204&original_query_string=SAUL O HERNANDEZ,N/A
+CARRIER  ,1914391 ,ACTIVE  ,"7,500 (2024) ",01/07/2025 ,SEAN CASSENS ,CASSENS FARMS ,"5103 SOUTH STREET
+GALT, IL   61037  ",(815) 441-0068  ,"5101 W LINCOLNWAY
+STERLING, IL   61081  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1914391&original_query_string=SEAN CASSENS,N/A
+CARRIER  ,1137342 ,ACTIVE  , ,05/12/2003 ,SEBASTIAN PALLET , ,"690 4TH PL
+VERO BEACH, FL   32962  ",(772) 770-0888  ,"690 4TH PL
+VERO BEACH, FL   32962  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1137342&original_query_string=SEBASTIAN PALLET,N/A
+CARRIER  ,1345665 ,ACTIVE  ,"2,500 (2004) ",06/09/2006 ,SHANE B BALDWYN ,BALDWYN LAND CLEARING INC ,"10471 REID STAFFORD RD
+GLEN ST MARY, FL   32040  ",(904) 259-9947  ,"10471 REID STAFFORD RD
+GLEN ST MARY, FL   32040  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1345665&original_query_string=SHANE B BALDWYN,N/A
+CARRIER  ,2606919 ,ACTIVE  , , ,SHANG H CHEN , ,"4988 CORONA AVE
+VERNON, CA   90058  ",(323) 582-8003  ,"4988 CORONA AVE
+VERNON, CA   90058  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2606919&original_query_string=SHANG H CHEN,N/A
+CARRIER  ,1081014 ,ACTIVE  ,"20,000 (2001) ",09/30/2002 ,SHAWANO WELL DRILLING INC , ,"W9618 ANGLE ROAD
+SHAWANO, WI   54166  ",(715) 526-5075  ,"W9618 ANGLE ROAD
+SHAWANO, WI   54166  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1081014&original_query_string=SHAWANO WELL DRILLING INC,N/A
+CARRIER  ,1345693 ,ACTIVE  ,"15,000 (2021) ",01/19/2023 ,SHEAHAN INC ,AL'S EXCAVATING AND SHEAHAN FARMS ,"W1372 SHEAHAN RD
+NELSON, WI   54756  ",(715) 946-3327  ,"S890 ARNOLDS DR
+NELSON, WI   54756  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1345693&original_query_string=SHEAHAN INC,N/A
+SHIPPER  ,405695 ,ACTIVE  , , ,SMITH ALSOP PAINT & WALLPAPER COMPANY , ,"228 NORTH COURT
+FLORENCE, AL   35630  ", ,"228 NORTH COURT
+FLORENCE, AL   35630  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=405695&original_query_string=SMITH ALSOP PAINT & WALLPAPER COMPANY,N/A
+CARRIER  ,1050508 ,ACTIVE  , ,08/22/2002 ,SMITH AUTO COMPANY , ,"131 SOUTH MAIN
+NEPHI, UT   84648  ",(435) 623-0222  ,"131 SOUTH MAIN
+NEPHI, UT   84648  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1050508&original_query_string=SMITH AUTO COMPANY,N/A
+CARRIER  ,1664074 ,ACTIVE  ,"29,096 (2022) ",06/28/2024 ,SOMEX TRANSPORTATION INC , ,"15721 PEDLAR MILLS RD
+CHARLOTTE, NC   28278-7686  ",(617) 304-1487  ,"15721 PEDLAR MILLS RD
+CHARLOTTE, NC   28278-7686  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1664074&original_query_string=SOMEX TRANSPORTATION INC,N/A
+SHIPPER  ,407290 ,ACTIVE  , , ,SOUTHERN BELTING & TRANSMISSION CO , ,"6021 COCA COLA BLVD
+COLUMBUS, GA   31909-5532  ",(706) 561-6946  ,"P O BOX 9065
+COLUMBUS, GA   31908-9065  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=407290&original_query_string=SOUTHERN BELTING & TRANSMISSION CO,N/A
+CARRIER  ,1628482 ,ACTIVE  ,"10,000 (2006) ",04/05/2007 ,SOUTHERN ELECTRICAL & MECHANICAL INC , ,"6156 HWY 80 EAST
+LOWNDESBORO, AL   36752  ",(334) 281-4846  ,"6156 HWY 80 EAST
+LOWNDESBORO, AL   36752  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1628482&original_query_string=SOUTHERN ELECTRICAL & MECHANICAL INC,N/A
+CARRIER  ,2784882 ,ACTIVE  ,"63,344 (2015) ",04/06/2016 ,SPARTAN DAY CAMP , ,"4725 DALE CURTIN DR
+MCFARLAND, WI   53558  ",(608) 438-3003  ,"PO BOX 441
+MCFARLAND, WI   53558  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2784882&original_query_string=SPARTAN DAY CAMP,N/A
+CARRIER  ,1431030 ,ACTIVE  ,"27,881 (2023) ",03/01/2024 ,SPE AUTO TRANSPORT LLC , ,"1401 NW 28TH COURT
+BATTLE GROUND, WA   98604  ",(360) 600-5174  ,"1401 NW 28TH COURT
+BATTLE GROUND, WA   98604  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1431030&original_query_string=SPE AUTO TRANSPORT LLC,N/A
+CARRIER  ,1419153 ,ACTIVE  ,"15,000 (2021) ",01/27/2023 ,LESLIE LAVERNE SPECKMANN ,SPECKMANN CHOPPING ,"62595 725 RD
+ELK CREEK, NE   68348  ",(402) 335-2393  ,"62595 725 RD
+ELK CREEK, NE   68348  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1419153&original_query_string=SPECKMANN CHOPPING,N/A
+CARRIER  ,3973429 ,ACTIVE  ,"5,668 (2023) ",11/16/2024 ,SQUARE ONE ALLIANCE LLP , ,"153 CENTENARY AVE NW
+CLEVELAND, TN   37311  ",(571) 216-3202  ,"153 CENTENARY AVE NW
+CLEVELAND, TN   37311-4420  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3973429&original_query_string=SQUARE ONE ALLIANCE LLP,N/A
+CARRIER  ,1869220 ,ACTIVE  , ,03/25/2009 ,SRJ LANDSCAPING INC , ,"11 INDIAN HILL RD
+SHRUB OAK, NY   10588  ",(914) 659-4244  ,"11 INDIAN HILL RD
+SHRUB OAK, NY   10588  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1869220&original_query_string=SRJ LANDSCAPING INC,N/A
+CARRIER  ,2638841 ,ACTIVE  ,"20,000 (2015) ",05/27/2015 ,STAND OUT CARPET CLEANING & BUILDING MAINTENANCE ,STAND OUT CLEANING & RESTORATION ,"1820 11TH AVENUE SOUTH
+MINNEAPOLIS, MN   55404  ",(612) 598-5068  ,"1820 11TH AVENUE SOUTH
+MINNEAPOLIS, MN   55404  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2638841&original_query_string=STAND OUT CARPET CLEANING & BUILDING MAINTENANCE,N/A
+CARRIER  ,2638841 ,ACTIVE  ,"20,000 (2015) ",05/27/2015 ,STAND OUT CARPET CLEANING & BUILDING MAINTENANCE ,STAND OUT CLEANING & RESTORATION ,"1820 11TH AVENUE SOUTH
+MINNEAPOLIS, MN   55404  ",(612) 598-5068  ,"1820 11TH AVENUE SOUTH
+MINNEAPOLIS, MN   55404  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2638841&original_query_string=STAND OUT CLEANING & RESTORATION,N/A
+SHIPPER  ,408238 ,ACTIVE  , , ,STANDARD CHEMICAL CORP , ,"15571 COMMERCE LN
+HUNTINGTON BEACH, CA   92649-1601  ", ,"15571 COMMERCE LN
+HUNTINGTON BEACH, CA   92649-1601  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=408238&original_query_string=STANDARD CHEMICAL CORP,N/A
+CARRIER  ,725519 ,ACTIVE  ,"30,560 () ", ,STANLEY 'GENE' WELLS ,GENE WELLS TRUCKING SERVICE ,"306 SOUTH MAIN
+DONNELLSON, IA   52625  ",(319) 835-5345  ,"306 SOUTH MAIN
+DONNELLSON, IA   52625  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=725519&original_query_string=STANLEY 'GENE' WELLS,N/A
+CARRIER  ,646471 ,ACTIVE  , , ,STANLEY KEEL TRUCKING , ,"RT 3 BOX 2970
+VAN LEAR, KY   41265  ",(606) 789-5247  ,"RT 3 BOX 2970
+VAN LEAR, KY   41265  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=646471&original_query_string=STANLEY KEEL TRUCKING,N/A
+CARRIER  ,729733 ,ACTIVE  , , ,STANLEY NAPIER , ,"RD 472 BOX 756
+MANCHESTER, KY   40962  ",(606) 598-0014  ,"RT 1 BOX 756
+MANCHESTER, KY   40962  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=729733&original_query_string=STANLEY NAPIER,N/A
+CARRIER  ,987618 ,ACTIVE  , ,10/29/2001 ,STEINHATCHEE CRANE LLC , ,"303 SECOND ST NE
+STEINHATCHEE, FL   32359-0443  ",(352) 498-2012  ,"POST OFFICE BOX 443
+STEINHATCHEE, FL   32359-0443  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=987618&original_query_string=STEINHATCHEE CRANE LLC,N/A
+CARRIER  ,2924807 ,ACTIVE  , ,08/31/2016 ,STENSLAND CONSTRUCTION LLC , ,"4017 16TH AVE NW
+ROCHESTER, MN   55901-1374  ",(507) 254-2364  ,"4017 16TH AVE NW
+ROCHESTER, MN   55901-1374  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2924807&original_query_string=STENSLAND CONSTRUCTION LLC,N/A
+CARRIER  ,1220998 ,ACTIVE  ,200 (2004) ,03/10/2004 ,STEPP'S GARAGE AND TOWING , ,"659 COLUMBIA HWY
+CHESTER, SC   29706  ",(803) 581-5466  ,"BOX 659 COLUMBIA HWY
+CHESTER, SC   29706  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1220998&original_query_string=STEPP'S GARAGE AND TOWING,N/A
+CARRIER  ,860320 ,ACTIVE  ,"40,000 (1999) ", ,STEVENS TROPICAL PLANTATION INC ,THE STEVENS COMPANY ,"6550 OKEECHOBEE BLVD
+WEST PALM BEACH, FL   33411  ",(561) 683-4701  ,"6550 OKEECHOBEE BLVD
+WEST PALM BEACH, FL   33411  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=860320&original_query_string=STEVENS TROPICAL PLANTATION INC,N/A
+SHIPPER  ,415688 ,ACTIVE  , , ,STRICKLAND AUTOMOTIVE WAREHOUSE , ,"3106 MAPLE AVENUE
+LOS ANGELES, CA   90011  ",(213) 232-3551  ,"3106 MAPLE AVENUE
+LOS ANGELES, CA   90011  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=415688&original_query_string=STRICKLAND AUTOMOTIVE WAREHOUSE,N/A
+CARRIER  ,1627434 ,ACTIVE  , ,04/03/2007 ,BOBBY STRICKLAND ,STRICKLAND GRADING ,"293 MATSON ROAD
+MUNFORD, AL   36268  ",(256) 591-5184  ,"PO BOX 285
+MUNFORD, AL   36268  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1627434&original_query_string=STRICKLAND GRADING,N/A
+CARRIER  ,3356012 ,ACTIVE  , ,01/15/2021 ,CEDRIC YOUNG ,STUMP HOLLOW TRANSPORT ,"481 COUNTY ROAD 3
+ORRVILLE, AL   36767-2563  ",(334) 412-1115  ,"481 COUNTY ROAD 3
+ORRVILLE, AL   36767-2563  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3356012&original_query_string=STUMP HOLLOW TRANSPORT,N/A
+CARRIER  ,878054 ,ACTIVE  ,"5,000 (2002) ",03/30/2009 ,SUBURBAN MOBILE CONCRETE LLC , ,"28 ROSE ROAD
+WEST NYACK, NY   10994  ",(845) 624-1984  ,"28 ROSE ROAD
+WEST NYACK, NY   10994  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=878054&original_query_string=SUBURBAN MOBILE CONCRETE LLC,N/A
+SHIPPER  ,407836 ,ACTIVE  , , ,SULLIVAN VARNISH COMPANY , ,"410 N HART ST
+CHICAGO, IL   60622-6234  ", ,"410 N HART ST
+CHICAGO, IL   60622-6234  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=407836&original_query_string=SULLIVAN VARNISH COMPANY,N/A
+CARRIER  ,4177821 ,ACTIVE  ,"20,000 (2023) ",01/16/2024 ,CESAR RAMIREZ MORALES ,SUNNY SAN DIEGO TREE SERVICE ,"1101 CONWAY DR
+ESCONDIDO, CA   92027-1466  ",(619) 897-5516  ,"1101 CONWAY DR
+ESCONDIDO, CA   92027-1466  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4177821&original_query_string=SUNNY SAN DIEGO TREE SERVICE,N/A
+CARRIER  ,1545473 ,ACTIVE  ,"161,912 (2006) ",08/22/2006 ,SUNSET BAY RATTAN INC ,ANDREA BASKETS ,"1401 LAKELAND AVE
+BOHEMIA, NY   11716  ",(631) 231-4888  ,"1401 LAKELAND AVE
+BOHEMIA, NY   11716  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1545473&original_query_string=SUNSET BAY RATTAN INC,N/A
+CARRIER  ,1937360 ,ACTIVE  ,"35,000 (2021) ",09/20/2022 ,SUNSHINE LANDSCAPE CONTRACTORS INC , ,"38 PLANTATION PARK DR
+BLUFFTON, SC   29910  ",(843) 757-7256  ,"38 PLANTATION PARK DR
+BLUFFTON, SC   29910  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1937360&original_query_string=SUNSHINE LANDSCAPE CONTRACTORS INC,N/A
+CARRIER  ,2068146 ,ACTIVE  , ,08/21/2010 ,T & G BUILDING MAINTENANCE , ,"165 GEORGE URBAN BLVD
+CHEEKTOWAGA, NY   14225  ",(716) 907-1878  ,"165 GEORGE URBAN BLVD
+CHEEKTOWAGA, NY   14225  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2068146&original_query_string=T & G BUILDING MAINTENANCE,N/A
+CARRIER  ,1475958 ,ACTIVE  , ,04/05/2006 ,T & H TRANSPORT LLC , ,"337 SADDLEBROOKE CIRCLE
+LEXINGTON, SC   29072  ",(803) 767-5402  ,"337 SADDLEBROOKE CIRCLE
+LEXINGTON, SC   29072  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1475958&original_query_string=T & H TRANSPORT LLC,N/A
+CARRIER  ,2554189 ,ACTIVE  ,"118,634 (2023) ",09/04/2024 ,T & S TRANSIT INC , ,"3389 HELMSTETLER ROAD
+LEXINGTON, NC   27295  ",(336) 425-9170  ,"3389 HELMSTETLER ROAD
+LEXINGTON, NC   27295  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2554189&original_query_string=T & S TRANSIT INC,N/A
+CARRIER  ,1084726 ,ACTIVE  ,300 (2002) ,01/03/2003 ,THOMAS ALBERT FRANA ,T FRANA CONSTRUCTION INC ,"20695 206 ST W
+FARIBAULT, MN   55021  ",(507) 334-4678  ,"20695 206 ST W
+FARIBAULT, MN   55021  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1084726&original_query_string=T FRANA CONSTRUCTION INC,N/A
+CARRIER  ,703950 ,ACTIVE  ,"12,081 (2004) ",04/25/2005 ,THERESA HOWARD EXCAVATION CO INC ,T H E COMPANY ,"KY 1355
+LANCASTER, KY   40444  ",(859) 548-2360  ,"2330 SUTTON LANE
+LANCASTER, KY   40444  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=703950&original_query_string=T H E COMPANY,N/A
+CARRIER  ,2079210 ,ACTIVE  ,0 () ,09/23/2010 ,TECH BROADBAND SERVICES LLC , ,"19003 FM 521
+BONNEY, TX   77583  ",(262) 770-1536  ,"PO BOX 56
+BRISTOL, WI   53104  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2079210&original_query_string=TECH BROADBAND SERVICES LLC,N/A
+SHIPPER  ,1126756 ,ACTIVE  , ,05/07/2003 ,THE FULLER COMPANY , ,"1280 RIVERSIDE DRIVE SUITE B
+MIRA LOMA, CA   91752  ", ,"1280 RIVERSIDE DRIVE SUITE B
+MIRA LOMA, CA   91752  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1126756&original_query_string=THE FULLER COMPANY,N/A
+CARRIER  ,860320 ,ACTIVE  ,"40,000 (1999) ", ,STEVENS TROPICAL PLANTATION INC ,THE STEVENS COMPANY ,"6550 OKEECHOBEE BLVD
+WEST PALM BEACH, FL   33411  ",(561) 683-4701  ,"6550 OKEECHOBEE BLVD
+WEST PALM BEACH, FL   33411  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=860320&original_query_string=THE STEVENS COMPANY,N/A
+CARRIER  ,1936672 ,ACTIVE  ,"8,000 (2009) ",04/30/2010 ,THEROUX DEVELOPMENT COMPANY INC , ,"1433 EIFERT ROAD
+HOLT, MI   48842  ",(517) 694-0414  ,"1433 EIFERT ROAD
+HOLT, MI   48842  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1936672&original_query_string=THEROUX DEVELOPMENT COMPANY INC,N/A
+CARRIER  ,1084726 ,ACTIVE  ,300 (2002) ,01/03/2003 ,THOMAS ALBERT FRANA ,T FRANA CONSTRUCTION INC ,"20695 206 ST W
+FARIBAULT, MN   55021  ",(507) 334-4678  ,"20695 206 ST W
+FARIBAULT, MN   55021  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1084726&original_query_string=THOMAS ALBERT FRANA,N/A
+CARRIER  ,1160145 ,ACTIVE  , ,08/14/2003 ,TIERNAN'S HOME CENTER INC , ,"ROUTE 37
+WADDINGTON, NY   13694  ",(315) 388-5623  ,"ROUTE 37 BOX 723
+WADDINGTON, NY   13694  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1160145&original_query_string=TIERNAN'S HOME CENTER INC,N/A
+CARRIER  ,981545 ,ACTIVE  , ,09/18/2001 ,TIMOTHY ALAN DEDRICK , ,"246 JARED COURT
+PHOENIX, OR   97535  ",(541) 535-6105  ,"246 JARED COURT
+PHOENIX, OR   97535  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=981545&original_query_string=TIMOTHY ALAN DEDRICK,N/A
+CARRIER  ,4208951 ,OUT-OF-SERVICE  , ,04/04/2024 ,TITAN ANALYTICS LLC , ,"1322 MAIZE LN
+LEBANON, TN   37087  ",(615) 935-6788  ,"1322 MAIZE LN
+LEBANON, TN   37087-2174  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4208951&original_query_string=TITAN ANALYTICS LLC,N/A
+CARRIER  ,2951773 ,ACTIVE  ,"40,000 (2023) ",01/19/2023 ,TM'S CUSTOM COUNTERTOPS AND SERVICE LLC ,TM'S COUNTERTOPS ,"5035 S 54TH ST
+OMAHA, NE   68117  ",(402) 706-0226  ,"5035 S 54TH ST
+OMAHA, NE   68117  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2951773&original_query_string=TM'S CUSTOM COUNTERTOPS AND SERVICE LLC,N/A
+SHIPPER  ,592193 ,ACTIVE  , , ,TOLEDO PICKLING AND STEEL SALES , ,"1149 CAMPBELL ST
+TOLEDO, OH   43607  ",(419) 255-1570  ,"P O BOX 3395
+TOLEDO, OH   43607  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=592193&original_query_string=TOLEDO PICKLING AND STEEL SALES,N/A
+CARRIER  ,3942686 ,ACTIVE  ,"67,865 (2024) ",10/07/2024 ,TOLEDO'S TRANSPORTATION LLC , ,"2532 HUNTINGTON DR APT 207
+DUARTE, CA   91010-2293  ",(626) 224-0961  ,"2532 HUNTINGTON DR APT 207
+DUARTE, CA   91010-2293  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3942686&original_query_string=TOLEDO'S TRANSPORTATION LLC,N/A
+CARRIER  ,929836 ,ACTIVE  ,"220,000 () ", ,TOM AND KAREN FRANKLIN TRUCKING , ,"4242 RACCOON ROAD
+ZOLFO SPRINGS, FL   33890  ",(863) 452-1464  ,"4242 RACCOON ROAD
+ZOLFO SPRINGS, FL   33890  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=929836&original_query_string=TOM AND KAREN FRANKLIN TRUCKING,N/A
+CARRIER  ,2606949 ,ACTIVE  , , ,TOMAS MANRIQUEZ , ,"12075 FOOTHILL BLVD
+SYLMAR, CA   91342  ",(818) 792-2703  ,"14906 POLK ST
+SYLMAR, CA   91342  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2606949&original_query_string=TOMAS MANRIQUEZ,N/A
+CARRIER  ,1683202 ,ACTIVE  ,"10,000 (2007) ",02/04/2008 ,TOWN AND COUNTRY OUTDOOR SERVICE LLC , ,"1683 DINIUS RD
+TECUMSEH, MI   49286  ",(517) 605-2884  ,"1683 DINIUS RD
+TECUMSEH, MI   49286  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1683202&original_query_string=TOWN AND COUNTRY OUTDOOR SERVICE LLC,N/A
+CARRIER  ,3972168 ,ACTIVE  ,"10,000 (2023) ",04/04/2024 ,TRANSCARGO LOADGISTICS LLC , ,"641 PROGRESO
+EAGLE PASS, TX   78852  ",(830) 513-7518  ,"641 PROGRESO
+EAGLE PASS, TX   78852-6565  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3972168&original_query_string=TRANSCARGO LOADGISTICS LLC,N/A
+CARRIER  ,4001913 ,ACTIVE  , ,12/22/2022 ,GOFORAY TRANSPORTATION LLC ,TRANSPORTATION ,"17538 CALCITE DR
+HAGERSTOWN, MD   21740  ",(240) 520-8444  ,"17538 CALCITE DR
+HAGERSTOWN, MD   21740-2098  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4001913&original_query_string=TRANSPORTATION,N/A
+CARRIER  ,385886 ,ACTIVE  ,"3,149,667 (2023) ",06/11/2024 ,TRANSPORTATION CHARTER SERVICES INC , ,"1931 N BATAVIA STREET
+ORANGE, CA   92865  ",(714) 637-4300  ,"1931 N BATAVIA STREET
+ORANGE, CA   92865  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=385886&original_query_string=TRANSPORTATION CHARTER SERVICES INC,N/A
+CARRIER  ,1053667 ,ACTIVE  ,"8,370 (2023) ",05/02/2024 ,TRANSPORTES EL DOLAR SA DE CV ,TRANSPORTES EL DOLAR ,"AVENIDA MANUEL BARRAGAN 219 A
+SAN NICOLAS DE LOS GA, NL   66420  ",(528) 182-0405  ,"1211 SAN DARIO AVE # 740
+LAREDO, TX   78040  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1053667&original_query_string=TRANSPORTES EL DOLAR,N/A
+CARRIER  ,1053667 ,ACTIVE  ,"8,370 (2023) ",05/02/2024 ,TRANSPORTES EL DOLAR SA DE CV ,TRANSPORTES EL DOLAR ,"AVENIDA MANUEL BARRAGAN 219 A
+SAN NICOLAS DE LOS GA, NL   66420  ",(528) 182-0405  ,"1211 SAN DARIO AVE # 740
+LAREDO, TX   78040  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1053667&original_query_string=TRANSPORTES EL DOLAR SA DE CV,N/A
+CARRIER  ,819319 ,ACTIVE  ,"10,000 (1998) ", ,DANIEL D JOHNSON ,TRI J SANITATION ,"109 WHITETAIL
+OPAL, WY   83124  ",(307) 877-5977  ,"PO BOX 98
+OPAL, WY   83124-0098  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=819319&original_query_string=TRI J SANITATION,N/A
+CARRIER  ,3042185 ,ACTIVE  , ,08/25/2017 ,ROBERT V HILL ,TRIANGLE CRANE ,"5624 MARIAN LN
+OXFORD, NC   27565-9101  ",(919) 690-4335  ,"5624 MARIAN LN
+OXFORD, NC   27565-9101  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3042185&original_query_string=TRIANGLE CRANE,N/A
+CARRIER  ,4110818 ,ACTIVE  , ,08/01/2023 ,TRIED N TRUE TRANSPORT LLC , ,"5102 LOG WAGON RD
+OCOEE, FL   34761  ",(607) 361-7292  ,"5102 LOG WAGON RD
+OCOEE, FL   34761-8116  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4110818&original_query_string=TRIED N TRUE TRANSPORT LLC,N/A
+CARRIER  ,3241540 ,ACTIVE  ,1 (2023) ,05/03/2024 ,TRIPLE H PIPE & MECHANICAL INC , ,"1013 TROUT RUN RD
+ST MARYS, PA   15857  ",(814) 781-3444  ,"1013 TROUT RUN RD
+SAINT MARYS, PA   15857-3124  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3241540&original_query_string=TRIPLE H PIPE & MECHANICAL INC,N/A
+CARRIER  ,1984811 ,ACTIVE  , ,01/16/2010 ,MARK ALBERTSON ,TWIN RIVER RANCH ,"3385 BROPHY ROAD
+EAGLE POINT, OR   97524  ",(541) 890-6275  ,"3385 BROPHY ROAD
+EAGLE POINT, OR   97524  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1984811&original_query_string=TWIN RIVER RANCH,N/A
+CARRIER  ,3964657 ,ACTIVE  , ,10/05/2022 ,TWINE TRANSPORT LTD , ,"4311 SNAP TURTLE DR
+CARY, NC   27519  ",(984) 999-8448  ,"4311 SNAP TURTLE DR
+CARY, NC   27519-7489  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3964657&original_query_string=TWINE TRANSPORT LTD,N/A
+SHIPPER  ,414318 ,ACTIVE  , , ,U S CHROME CORPORATION OF PENNSYLVANIA , ,"750 W WASHINGTON ST
+NORRISTOWN, PA   19401-4533  ",(215) 272-1945  ,"P O BOX 603
+NORRISTOWN, PA   19404-0603  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=414318&original_query_string=U S CHROME CORPORATION OF PENNSYLVANIA,N/A
+CARRIER  ,3962778 ,ACTIVE  ,"10,000 (2023) ",11/17/2024 ,UPPER LEVEL CUSTOMS LLC ,UPPER LEVEL TRANSPORT ,"14841 MONROE RD
+OKMULGEE, OK   74447  ",(918) 600-5748  ,"14841 MONROE RD
+OKMULGEE, OK   74447  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3962778&original_query_string=UPPER LEVEL TRANSPORT,N/A
+CARRIER  ,1087318 ,ACTIVE  , ,12/13/2002 ,USA STREET AND CURB CLEANING , ,"10504-U541 NORTH
+PALMETTO, FL   34221-8725  ",(941) 746-1191  ,"10504-U541 NORTH
+PALMETTO, FL   34221-8725  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1087318&original_query_string=USA STREET AND CURB CLEANING,N/A
+CARRIER  ,1215983 ,ACTIVE  ,"10,000 (2003) ",02/27/2004 ,VAN WINKLE MASONRY INC , ,"2123 HIGH
+BEATRICE, NE   68310  ",(402) 223-3728  ,"2123 HIGH
+BEATRICE, NE   68310  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1215983&original_query_string=VAN WINKLE MASONRY INC,N/A
+SHIPPER  ,410296 ,ACTIVE  , , ,VAUGHAN BROS INC , ,"1022 W BURNSIDE ST
+PORTLAND, OR   97209-3115  ",(503) 228-6485  ,"1022 W BURNSIDE ST
+PORTLAND, OR   97209-3115  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=410296&original_query_string=VAUGHAN BROS INC,N/A
+CARRIER  ,1644658 ,ACTIVE  ,"10,000 (2014) ",11/14/2014 ,CLIFFORD G BERKITT ,VI TRANSPORTATION ,"6703 TREECREST PARKWAY
+DECATUR, GA   30035  ",(678) 637-8044  ,"6703 TREECREST PARKWAY
+DECATUR, GA   30035  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1644658&original_query_string=VI TRANSPORTATION,N/A
+CARRIER  ,709088 ,ACTIVE  , , ,W & P COAL COMPANY INC , ,"228A E MAIN ST
+WHITESBURG, KY   41858  ",(606) 633-8098  ,"228A E MAIN ST
+WHITESBURG, KY   41858  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=709088&original_query_string=W & P COAL COMPANY INC,N/A
+CARRIER  ,854788 ,ACTIVE  ,"40,000 (1999) ", ,W AND S TRUCKING , ,"6418 N BLACKDAIRY ROAD
+SEFFNER, FL   33584  ",(813) 626-3515  ,"6418 N BLACKDAIRY ROAD
+SEFFNER, FL   33584  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=854788&original_query_string=W AND S TRUCKING,N/A
+SHIPPER  ,365166 ,ACTIVE  , , ,WALLACE AND TIERNAN INC , ,"1901 WEST GARDEN ROAD
+VINELAND, NJ   08360  ",(609) 507-7141  ,"1901 WEST GARDEN ROAD
+VINELAND, NJ   08360  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=365166&original_query_string=WALLACE AND TIERNAN INC,N/A
+CARRIER  ,532332 ,ACTIVE  ,"10,000 (1998) ",02/20/2001 ,WALTER L AND JOANNE D SMITH , ,"BOX 3
+SOUTH ACWORTH, NH   03607-0003  ", ,"BOX 3
+SOUTH ACWORTH, NH   03607-0003  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=532332&original_query_string=WALTER L AND JOANNE D SMITH,N/A
+CARRIER  ,1016169 ,ACTIVE  , ,04/02/2002 ,WAYNE BONE AND SONS ELECTRIC INC , ,"62 S 3200 W
+LAYTON, UT   84041  ",(801) 544-0887  ,"62 S 3200 W
+LAYTON, UT   84041  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1016169&original_query_string=WAYNE BONE AND SONS ELECTRIC INC,N/A
+CARRIER  ,741401 ,ACTIVE  , , ,WAYNE EARL MORGAN & ANTHONIA JEAN MORGAN ,GREENACRES TV CABLE ,"85 CORDELL LN
+COOS BAY, OR   97420  ",(541) 267-4788  ,"85 CORDELL LN
+COOS BAY, OR   97420  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=741401&original_query_string=WAYNE EARL MORGAN & ANTHONIA JEAN MORGAN,N/A
+SHIPPER  ,530511 ,ACTIVE  , , ,WEDDING AND ASSOCIATES , ,"PO BOX 1756
+FORT COLLINS, CO   80522  ",(970) 221-0678  ,"PO BOX 1756
+FORT COLLINS, CO   80522  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=530511&original_query_string=WEDDING AND ASSOCIATES,N/A
+CARRIER  ,1639117 ,ACTIVE  ,"12,000 (2007) ",07/09/2007 ,WESTTOWN CHANDELIER RESTORATION INC , ,"74 CR12
+WESTTOWN, NY   10998  ",(845) 726-0929  ,"74 CR12
+WESTTOWN, NY   10998  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1639117&original_query_string=WESTTOWN CHANDELIER RESTORATION INC,N/A
+CARRIER  ,1657663 ,ACTIVE  , ,06/19/2007 ,WINCHESTER TRANSPORT LLC , ,"2058 TOWNSITE ROAD
+WINCHESTER, WI   54557  ",(715) 686-7227  ,"2058 TOWNSITE ROAD
+WINCHESTER, WI   54557  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1657663&original_query_string=WINCHESTER TRANSPORT LLC,N/A
+CARRIER  ,2749027 ,ACTIVE  , , ,STEWART O DEGNER ,WINE COUNTRY BALANCE ,"127 CASA VERDE COURT
+SONOMA, CA   95476  ",(707) 938-0961  ,"127 CASA VERDE COURT
+SONOMA, CA   95476  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2749027&original_query_string=WINE COUNTRY BALANCE,N/A
+CARRIER  ,647027 ,ACTIVE  ,480 () , ,WINFRED BRANTLEY , ,"14050 HWY 132 WEST
+CLAY, KY   42404  ",(502) 664-2535  ,"14050 HWY 132 WEST
+CLAY, KY   42404  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=647027&original_query_string=WINFRED BRANTLEY,N/A
+CARRIER  ,4168698 ,ACTIVE  ,1 (2023) ,01/04/2024 ,WINSTON&COMPANY TRANSPORTATION LLC , ,"2123 GREENWOOD DR
+PORTSMOUTH, VA   23702  ",(757) 738-3084  ,"2123 GREENWOOD DR
+PORTSMOUTH, VA   23702-1706  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=4168698&original_query_string=WINSTON&COMPANY TRANSPORTATION LLC,N/A
+CARRIER  ,2902871 ,ACTIVE  ,"3,000 (2019) ",02/28/2019 ,XTREME TRUCK AND TRAILER REPAIR , ,"338 COUNTY ROAD 801
+FLAT ROCK, AL   35966-8336  ",(256) 996-4849  ,"338 COUNTY ROAD 801
+FLAT ROCK, AL   35966-8336  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2902871&original_query_string=XTREME TRUCK AND TRAILER REPAIR,N/A
+CARRIER  ,1689855 ,ACTIVE  , ,09/20/2007 ,YANDROS PEREIRA , ,"20505 NW 45 AVENUE
+MIAMI GARDENS, FL   33055  ",(786) 970-5422  ,"20505 NW 45 AVENUE
+MIAMI GARDENS, FL   33055  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1689855&original_query_string=YANDROS PEREIRA,N/A
+CARRIER  ,3940988 ,ACTIVE  ,"97,584 (2023) ",10/07/2024 ,YAZI TRANSPORT INC , ,"2069 QUITO LOOP
+LAREDO, TX   78045  ",(407) 319-5408  ,"2069 QUITO LOOP
+LAREDO, TX   78045  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=3940988&original_query_string=YAZI TRANSPORT INC,N/A
+CARRIER  ,1975973 ,ACTIVE  ,"10,000 (2023) ",03/28/2024 ,YORIKHO LAND DEVELOPMENT LLC , ,"19153 PALMER CREEK DR
+SAUCIER, MS   39574  ",(803) 310-8088  ,"19153 PALMER CREEK DR
+SAUCIER, MS   39574  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=1975973&original_query_string=YORIKHO LAND DEVELOPMENT LLC,N/A
+CARRIER  ,2564847 ,Inactive USDOT Number per 49 CFR 390.19(b)(4); Biennial update of MCS-150 data not completed  ,"112,380 (2021) ",08/18/2022 ,ZAHA'S T&L TRANSPORT INC , ,"4004 JERSEY RIDGE RD
+DAVENPORT, IA   52807  ",(563) 940-0038  ,"4004 JERSEY RIDGE RD
+DAVENPORT, IA   52807  ",https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&original_query_param=NAME&query_string=2564847&original_query_string=ZAHA'S T&L TRANSPORT INC,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Error scraping link number 507: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""N/A"", waiting until ""load""
+"
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Error scraping link number 508: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""N/A"", waiting until ""load""
+"
